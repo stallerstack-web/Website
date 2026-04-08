@@ -1,0 +1,271 @@
+[
+	{
+		"id": 1,
+		"title": "The Rise of Generative AI: How Businesses Are Leveraging LLMs in 2025",
+		"img": "https://images.unsplash.com/photo-1677442135703-1787eea5ce01?w=800&q=80",
+		"img1": "https://images.unsplash.com/photo-1677442135703-1787eea5ce01?q=80&fit=crop&w=800&h=600",
+		"img2": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?q=80&fit=crop&w=800&h=600",
+		"img3": "https://images.unsplash.com/photo-1555255707-c07966088b7b?q=80&fit=crop&w=800&h=600",
+		"img4": "https://images.unsplash.com/photo-1518770660439-4636190af475?q=80&fit=crop&w=800&h=600",
+		"img5": "https://images.unsplash.com/photo-1488590528505-98d2b5aba04b?q=80&fit=crop&w=800&h=600",
+		"img6": "https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?q=80&fit=crop&w=800&h=600",
+		"detailsImg": "https://images.unsplash.com/photo-1677442135703-1787eea5ce01?w=1200&q=80",
+		"smallImg": "https://images.unsplash.com/photo-1677442135703-1787eea5ce01?w=300&q=80",
+		"desc": "Generative AI is no longer a futuristic concept — it's reshaping industries today. From content automation to intelligent data analysis, discover how leading businesses are integrating large language models to unlock unprecedented efficiency and innovation.",
+		"desc1": "Large Language Models (LLMs) like GPT-4, Claude, and Gemini are transforming the way companies interact with data, customers, and internal workflows. With capabilities ranging from natural language processing to code generation, these models serve as powerful engines for digital transformation.",
+		"desc2": "In this blog, we explore real-world use cases, implementation strategies, and the ROI businesses are seeing from their generative AI investments — alongside practical tips for getting started with AI integration in your own organization.",
+		"date": "15 MAR 2026",
+		"date2": "Mar 15 2026",
+		"day": 15,
+		"month": "MAR",
+		"category": "Technology",
+		"tags": [
+			"AI",
+			"Technology",
+			"Innovation"
+		],
+		"author_name": "Alex Carter",
+		"author_role": "Tech Editor",
+		"author_img": "https://images.unsplash.com/photo-1560250097-0b93528c311a?w=400&h=400&fit=crop&q=80",
+		"author": "alex-carter",
+		"status": "Tutorial",
+		"blogTopList": [
+			{
+				"iconName": "fa-light fa-user",
+				"name": "Admin",
+				"path": "#"
+			},
+			{
+				"iconName": "fa-light fa-calendar-days",
+				"name": "15 MAR 2026"
+			},
+			{
+				"iconName": "fa-light fa-comments",
+				"name": "Comment",
+				"path": "#"
+			}
+		],
+		"comments": [
+			{
+				"authorName": "Priya Sharma",
+				"img": "https://images.unsplash.com/photo-1560250097-0b93528c311a?w=100&h=100&fit=crop&q=80",
+				"date": "March 18, 2026",
+				"day": 18,
+				"month": "MAR",
+				"smallImg": "https://images.unsplash.com/photo-1677442135703-1787eea5ce01?w=300&q=80",
+				"desc": "Fantastic breakdown of how LLMs are being applied in real business scenarios. The section on customer support automation was especially insightful.",
+				"replies": [
+					{
+						"authorName": "Alex Carter",
+						"img": "https://images.unsplash.com/photo-1573496359142-b8d87734953a?w=100&h=100&fit=crop&q=80",
+						"date": "March 19, 2026",
+						"day": 19,
+						"month": "MAR",
+						"smallImg": "https://images.unsplash.com/photo-1677442135703-1787eea5ce01?w=300&q=80",
+						"desc": "Thanks Priya! Yes, customer support is one of the fastest-growing use cases. Stay tuned for a dedicated deep-dive post on that topic coming next month."
+					}
+				]
+			}
+		],
+		"quote": {
+			"text": "The true entrepreneur is a doer, not a dreamer. Innovation is the catalyst that transforms ideas into reality.",
+			"author": "Kevin Hooks"
+		},
+		"subheading": "Key lessons of Technology",
+		"gallery": [
+			"/images/blog/blog-9.webp",
+			"/images/blog/blog-10.webp"
+		],
+		"desc3": "Effective leadership that inspires and motivates employees, customers, and stakeholders is essential in steering the business toward achieving its full potential.",
+		"listItems": [
+			"Embrace Innovation",
+			"Customer-Centric Approach",
+			"Effective Leadership",
+			"Operational Efficiency",
+			"Scalable Systems",
+			"Resilience",
+			"Continuous Learning"
+		],
+		"conclusion": {
+			"heading": "Conclusions",
+			"desc1": "Unlocking your business’s full potential is a journey that requires vision, innovation, and strategic execution.",
+			"desc2": "The ability to continuously learn, collaborate, and optimize operations will not only drive growth but ensure long-term sustainability."
+		}
+	},
+	{
+		"id": 2,
+		"title": "Edge Computing vs Cloud: Which Architecture Wins for Modern Apps?",
+		"img": "https://images.unsplash.com/photo-1558494949-ef010cbdcc31?w=800&q=80",
+		"img1": "https://images.unsplash.com/photo-1558494949-ef010cbdcc31?q=80&fit=crop&w=800&h=600",
+		"img2": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&fit=crop&w=800&h=600",
+		"img3": "https://images.unsplash.com/photo-1544197150-b99a580bb7a8?q=80&fit=crop&w=800&h=600",
+		"img4": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?q=80&fit=crop&w=800&h=600",
+		"img5": "https://images.unsplash.com/photo-1601597111158-2fceff292cdc?q=80&fit=crop&w=800&h=600",
+		"img6": "https://images.unsplash.com/photo-1542382156909-9ae37b3f56fd?q=80&fit=crop&w=800&h=600",
+		"detailsImg": "https://images.unsplash.com/photo-1558494949-ef010cbdcc31?w=1200&q=80",
+		"smallImg": "https://images.unsplash.com/photo-1558494949-ef010cbdcc31?w=300&q=80",
+		"desc": "As IoT devices and real-time applications explode in number, the debate between edge computing and centralized cloud architecture has never been more relevant. We break down the trade-offs so your team can make the right infrastructure decision.",
+		"desc1": "Edge computing processes data closer to where it's generated — reducing latency, conserving bandwidth, and enabling real-time decision-making without round trips to distant data centers. For industries like manufacturing, healthcare, and autonomous vehicles, this difference can be mission-critical.",
+		"desc2": "This post compares edge vs cloud across key dimensions including latency, scalability, cost, security, and developer experience. We also look at hybrid approaches that combine the best of both worlds for enterprise-grade applications.",
+		"date": "22 MAR 2026",
+		"date2": "Mar 22 2026",
+		"day": 22,
+		"month": "MAR",
+		"category": "Technology",
+		"tags": [
+			"Cloud",
+			"Technology",
+			"Infrastructure"
+		],
+		"author_name": "Jordan Mills",
+		"author_role": "Cloud Architect",
+		"author": "jordan-mills",
+		"status": "TIPS",
+		"blogTopList": [
+			{
+				"iconName": "fa-light fa-user",
+				"name": "Admin",
+				"path": "#"
+			},
+			{
+				"iconName": "fa-light fa-calendar-days",
+				"name": "22 MAR 2026"
+			},
+			{
+				"iconName": "fa-light fa-comments",
+				"name": "Comment",
+				"path": "#"
+			}
+		],
+		"comments": [
+			{
+				"authorName": "David Kim",
+				"img": "https://images.unsplash.com/photo-1560250097-0b93528c311a?w=100&h=100&fit=crop&q=80",
+				"date": "March 25, 2026",
+				"day": 25,
+				"month": "MAR",
+				"smallImg": "https://images.unsplash.com/photo-1558494949-ef010cbdcc31?w=300&q=80",
+				"desc": "Great comparison! We recently migrated part of our IoT pipeline to edge nodes and the latency improvement was dramatic. Would love a follow-up on security challenges at the edge.",
+				"replies": []
+			}
+		],
+		"quote": {
+			"text": "The true entrepreneur is a doer, not a dreamer. Innovation is the catalyst that transforms ideas into reality.",
+			"author": "Kevin Hooks"
+		},
+		"subheading": "Key lessons of Technology",
+		"gallery": [
+			"/images/blog/blog-9.webp",
+			"/images/blog/blog-10.webp"
+		],
+		"desc3": "Effective leadership that inspires and motivates employees, customers, and stakeholders is essential in steering the business toward achieving its full potential.",
+		"listItems": [
+			"Embrace Innovation",
+			"Customer-Centric Approach",
+			"Effective Leadership",
+			"Operational Efficiency",
+			"Scalable Systems",
+			"Resilience",
+			"Continuous Learning"
+		],
+		"conclusion": {
+			"heading": "Conclusions",
+			"desc1": "Unlocking your business’s full potential is a journey that requires vision, innovation, and strategic execution.",
+			"desc2": "The ability to continuously learn, collaborate, and optimize operations will not only drive growth but ensure long-term sustainability."
+		},
+		"author_img": "https://images.unsplash.com/photo-1519085360753-af0119f7cbe7?w=400&h=400&fit=crop&q=80"
+	},
+	{
+		"id": 3,
+		"title": "Cybersecurity in 2026: Zero Trust Strategies Every Business Must Adopt",
+		"img": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=800&q=80",
+		"img1": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?q=80&fit=crop&w=800&h=600",
+		"img2": "https://images.unsplash.com/photo-1563986768494-4dee2763ff3f?q=80&fit=crop&w=800&h=600",
+		"img3": "https://images.unsplash.com/photo-1555949963-ff9fe0c870eb?q=80&fit=crop&w=800&h=600",
+		"img4": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?q=80&fit=crop&w=800&h=600",
+		"img5": "https://images.unsplash.com/photo-1510511459019-5efa32cc0b95?q=80&fit=crop&w=800&h=600",
+		"img6": "https://images.unsplash.com/photo-1504384308090-c894fdcc538d?q=80&fit=crop&w=800&h=600",
+		"detailsImg": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=1200&q=80",
+		"smallImg": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=300&q=80",
+		"desc": "Cyber threats are growing more sophisticated by the day. The old perimeter-based security model is no longer enough. Learn how Zero Trust architecture is redefining protection for remote workforces, cloud-native apps, and sensitive enterprise data.",
+		"desc1": "Zero Trust operates on a simple but powerful principle: never trust, always verify. Every user, device, and application must be authenticated and authorized regardless of whether they're inside or outside the corporate network. This model dramatically reduces the attack surface and limits the blast radius of any breach.",
+		"desc2": "We walk through the core pillars of a Zero Trust strategy — identity verification, micro-segmentation, least-privilege access, and continuous monitoring — with real implementation examples from Fortune 500 companies that have made the shift.",
+		"date": "01 APR 2026",
+		"date2": "Apr 01 2026",
+		"day": 1,
+		"month": "APR",
+		"category": "Technology",
+		"tags": [
+			"Cybersecurity",
+			"Technology",
+			"Strategy"
+		],
+		"author_name": "Sarah Nguyen",
+		"author_role": "Security Analyst",
+		"author": "sarah-nguyen",
+		"status": "Tutorial",
+		"blogTopList": [
+			{
+				"iconName": "fa-light fa-user",
+				"name": "Admin",
+				"path": "#"
+			},
+			{
+				"iconName": "fa-light fa-calendar-days",
+				"name": "01 APR 2026"
+			},
+			{
+				"iconName": "fa-light fa-comments",
+				"name": "Comment",
+				"path": "#"
+			}
+		],
+		"comments": [
+			{
+				"authorName": "Mike Torres",
+				"img": "https://images.unsplash.com/photo-1560250097-0b93528c311a?w=100&h=100&fit=crop&q=80",
+				"date": "April 2, 2026",
+				"day": 2,
+				"month": "APR",
+				"smallImg": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=300&q=80",
+				"desc": "This article should be required reading for every IT manager. The micro-segmentation section alone is worth bookmarking. Zero Trust is not optional anymore — it's a necessity.",
+				"replies": [
+					{
+						"authorName": "Sarah Nguyen",
+						"img": "https://images.unsplash.com/photo-1573496359142-b8d87734953a?w=100&h=100&fit=crop&q=80",
+						"date": "April 3, 2026",
+						"day": 3,
+						"month": "APR",
+						"smallImg": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=300&q=80",
+						"desc": "Totally agree, Mike. The shift in mindset from 'protect the perimeter' to 'assume breach' is the hardest part but absolutely critical. Thanks for the kind words!"
+					}
+				]
+			}
+		],
+		"quote": {
+			"text": "The true entrepreneur is a doer, not a dreamer. Innovation is the catalyst that transforms ideas into reality.",
+			"author": "Kevin Hooks"
+		},
+		"subheading": "Key lessons of Technology",
+		"gallery": [
+			"/images/blog/blog-9.webp",
+			"/images/blog/blog-10.webp"
+		],
+		"desc3": "Effective leadership that inspires and motivates employees, customers, and stakeholders is essential in steering the business toward achieving its full potential.",
+		"listItems": [
+			"Embrace Innovation",
+			"Customer-Centric Approach",
+			"Effective Leadership",
+			"Operational Efficiency",
+			"Scalable Systems",
+			"Resilience",
+			"Continuous Learning"
+		],
+		"conclusion": {
+			"heading": "Conclusions",
+			"desc1": "Unlocking your business’s full potential is a journey that requires vision, innovation, and strategic execution.",
+			"desc2": "The ability to continuously learn, collaborate, and optimize operations will not only drive growth but ensure long-term sustainability."
+		},
+		"author_img": "https://images.unsplash.com/photo-1573496359142-b8d87734953a?w=400&h=400&fit=crop&q=80"
+	}
+]

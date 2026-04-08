@@ -1,0 +1,110 @@
+[
+	{
+		"name": "Python",
+		"img": "/images/tech/python.svg"
+	},
+	{
+		"name": "TensorFlow",
+		"img": "/images/tech/tensorflow.svg"
+	},
+	{
+		"name": "PyTorch",
+		"img": "/images/tech/pytorch.svg"
+	},
+	{
+		"name": "Hugging Face",
+		"img": "/images/tech/huggingface.svg"
+	},
+	{
+		"name": "LangChain",
+		"img": "/images/tech/langchain.svg"
+	},
+	{
+		"name": "Keras",
+		"img": "/images/tech/keras.svg"
+	},
+	{
+		"name": "Scikit-Learn",
+		"img": "/images/tech/scikitlearn.svg"
+	},
+	{
+		"name": "NumPy",
+		"img": "/images/tech/numpy.svg"
+	},
+	{
+		"name": "Pandas",
+		"img": "/images/tech/pandas.svg"
+	},
+	{
+		"name": "Jupyter",
+		"img": "/images/tech/jupyter.svg"
+	},
+	{
+		"name": "Flutter",
+		"img": "/images/tech/flutter.svg"
+	},
+	{
+		"name": "React Native",
+		"img": "/images/tech/react.svg"
+	},
+	{
+		"name": "Android",
+		"img": "/images/tech/android.svg"
+	},
+	{
+		"name": "Kotlin",
+		"img": "/images/tech/kotlin.svg"
+	},
+	{
+		"name": "iOS",
+		"img": "/images/tech/apple.svg"
+	},
+	{
+		"name": "Swift",
+		"img": "/images/tech/swift.svg"
+	},
+	{
+		"name": "TypeScript",
+		"img": "/images/tech/typescript.svg"
+	},
+	{
+		"name": "JavaScript",
+		"img": "/images/tech/javascript.svg"
+	},
+	{
+		"name": "React.js",
+		"img": "/images/tech/react.svg"
+	},
+	{
+		"name": "Next.js",
+		"img": "/images/tech/nextdotjs.svg"
+	},
+	{
+		"name": "Node.js",
+		"img": "/images/tech/nodedotjs.svg"
+	},
+	{
+		"name": "Express.js",
+		"img": "/images/tech/express.svg"
+	},
+	{
+		"name": "PostgreSQL",
+		"img": "/images/tech/postgresql.svg"
+	},
+	{
+		"name": "MongoDB",
+		"img": "/images/tech/mongodb.svg"
+	},
+	{
+		"name": "MySQL",
+		"img": "/images/tech/mysql.svg"
+	},
+	{
+		"name": "Redis",
+		"img": "/images/tech/redis.svg"
+	},
+	{
+		"name": "Supabase",
+		"img": "/images/tech/supabase.svg"
+	}
+]

@@ -1,0 +1,1524 @@
+[
+	{
+		"id": 1,
+		"title": "Sneaky Links",
+		"title2": "Project Description",
+		"titleLarge": "A bold social community app — connect, share content, go live, run rooms, and explore freely with Sneaky Mode incognito profiles and a built-in digital coin economy",
+		"img": "/images/portfolio/project-5-1.png",
+		"imgCard3": "/images/portfolio/project-5-1.png",
+		"img2": "/images/portfolio/project-5-2.png",
+		"img3": "/images/portfolio/project-5-3.png",
+		"img4": "/images/portfolio/project-5-4.png",
+		"img5": "/images/portfolio/project-5-5.png",
+		"img6": "/images/portfolio/project-5-6.png",
+		"img7": "/images/portfolio/project-5-7.png",
+		"imgLarge": "/images/portfolio/project-5-5.png",
+		"detailsImg": "/images/portfolio/project-5-5.png",
+		"galleryLayout": "mobile",
+		"desc": "Sneaky Links is a bold social community app — be you, do you, and be free. With 115K+ active users, 88K+ Sneaky Mode users, and 4.9 stars over 1,200+ ratings, it combines interest-based social networking, incognito Sneaky Mode, live streaming with up to 20 people on stage, community rooms, content sharing, and a digital Sneaky Coins economy.",
+		"shortDesc": "Bold social community app with Sneaky Mode, live rooms, and digital coins",
+		"desc1": "Sneaky Links goes far beyond traditional dating apps — it's a full social platform where users connect based on shared interests, share photos and videos on a live timeline, run monetized community rooms, and go incognito via Sneaky Mode. When in Sneaky Mode, only users with matching interests who are actively online can see you — and all posts vanish the moment you exit, giving true ephemeral privacy. Rooms let creators broadcast live to millions while hosting up to 20 people on stage, and viewers can send Sneaky Coins (starting at $0.50 each) as a real-time monetization layer.",
+		"desc2": "Built as a Flutter-based cross-platform mobile app for both iOS and Android, with a backend powered by React.js, Next.js, Node.js, and Python. OpenAI integrates into interest matching, content moderation, and personalized suggestions, while MongoDB handles all user, content, room, and coin transaction data. The architecture supports real-time live streaming, ephemeral content for Sneaky Mode, and a digital wallet system — all at scale for 115K+ active users.",
+		"category": "Social / Dating / Mobile App",
+		"featured": true,
+		"featuredDesc": "115K+ active users, 88K+ Sneaky Mode users, 4.9-star rating across 1,200+ reviews. Sneaky Links redefines social connection — combining interest-based networking, incognito mode, live streaming rooms, and a built-in coin economy into one bold platform.",
+		"featuredImg": "/images/portfolio/project-5-1.png",
+		"employee": {
+			"name": "Sneaky Links Team",
+			"desig": "Social & Dating App Product",
+			"img": "/images/portfolio/project-5-1.png"
+		},
+		"tags": [
+			"Social",
+			"Dating",
+			"Mobile App",
+			"Flutter",
+			"Live Streaming"
+		],
+		"dataFilter": "social dating mobile success lead impact innovate",
+		"links": {
+			"web": "https://www.sneakylinks.com/",
+			"android": "https://play.google.com/store/apps/details?id=com.sneakylinks&hl=en_IN",
+			"ios": "https://apps.apple.com/ae/app/sneaky-links-social-community/id6449924206"
+		},
+		"statusItem": [
+			{
+				"title": "Category",
+				"desc": "Social / Dating / Mobile App"
+			},
+			{
+				"title": "Client",
+				"desc": "Sneaky Links"
+			},
+			{
+				"title": "Platform",
+				"desc": "iOS & Android (Flutter)"
+			},
+			{
+				"title": "Rating",
+				"desc": "4.9★ — 115K+ Active Users"
+			}
+		],
+		"techStack": [
+			{
+				"label": "Mobile",
+				"value": "Flutter (iOS & Android)"
+			},
+			{
+				"label": "Frontend",
+				"value": "React.js, Next.js"
+			},
+			{
+				"label": "Backend",
+				"value": "Node.js, Python"
+			},
+			{
+				"label": "AI / ML",
+				"value": "OpenAI"
+			},
+			{
+				"label": "Database",
+				"value": "MongoDB"
+			}
+		],
+		"descItems": [
+			{
+				"title": "The Story",
+				"desc": "Sneaky Links was built for people who want genuine freedom in how they connect online — no judgment, no exposure unless you choose it, and a platform that adapts to who you want to be at any given moment. The core innovation is Sneaky Mode: a fully separate incognito profile that only surfaces to users who share your interests and are actively online at the same time. When you leave, everything disappears. This ephemeral, interest-matched design creates a uniquely safe yet spontaneous experience that traditional social and dating apps can't offer. Paired with community rooms, live streaming for millions, and a digital coin economy, Sneaky Links has grown to over 115K active users with a 4.9-star rating."
+			},
+			{
+				"title": "Our Approach",
+				"desc": "The app is built entirely in Flutter for a single-codebase iOS and Android experience. The backend runs on Node.js and Python microservices handling user management, real-time events, ephemeral content lifecycle (Sneaky Mode post expiry), room management, and the Sneaky Coins wallet and transaction system. React.js and Next.js power the web presence and admin interfaces. OpenAI is used for interest-based user matching, smart content suggestions, and automated moderation to keep the platform safe. MongoDB's flexible document model is ideal for the platform's varied data types — user profiles, timeline posts, live room states, coin transactions, and ephemeral Sneaky Mode content. The live streaming architecture supports up to 20 simultaneous on-stage participants and broadcast to millions of viewers in real time."
+			}
+		],
+		"features": [
+			{
+				"title": "Sneaky Mode",
+				"desc": "An incognito profile visible only to interest-matched users who are actively online. All posts and comments vanish automatically when you exit — true ephemeral privacy.",
+				"link": "https://www.sneakylinks.com/#features"
+			},
+			{
+				"title": "Interest-Based Matching",
+				"desc": "Sign up and instantly get suggested friends who share your interests. Change your interests anytime to explore a new crowd of people to connect with.",
+				"link": "https://www.sneakylinks.com/#hit"
+			},
+			{
+				"title": "Community Rooms",
+				"desc": "Run your own channel — public or private, free or paid. Charge one-time entry fees or monthly subscriptions and go live to your room members exclusively.",
+				"link": "https://www.sneakylinks.com/#features"
+			},
+			{
+				"title": "Live Streaming",
+				"desc": "Host up to 20 people on stage simultaneously while broadcasting live to millions of viewers. Audience can send Sneaky Coins and ask questions in real time.",
+				"link": "https://www.sneakylinks.com/#features"
+			},
+			{
+				"title": "Sneaky Coins",
+				"desc": "A built-in digital currency (starting at $0.50 each) used to tip live creators, reward content, and transact within the platform — tracked in each user's wallet.",
+				"link": "https://www.sneakylinks.com/#features"
+			},
+			{
+				"title": "Content Sharing & Timeline",
+				"desc": "Share photos and videos on a running timeline. Friends can Like, Comment, Share, and gift Sneaky Coins to show appreciation for your content.",
+				"link": "https://www.sneakylinks.com/#features"
+			}
+		],
+		"stats": [
+			{
+				"label": "Active Users",
+				"value": "115K+"
+			},
+			{
+				"label": "Sneaky Mode Users",
+				"value": "88K+"
+			},
+			{
+				"label": "App Rating",
+				"value": "4.9★"
+			},
+			{
+				"label": "Testimonials",
+				"value": "10K+"
+			}
+		]
+	},
+	{
+		"id": 2,
+		"title": "Puls",
+		"title2": "Project Description",
+		"titleLarge": "Your go-to expert for all home care needs — on-demand TV mounting, appliance repair, handyman services, plumbing, iPhone repair, and smart home installation trusted by 2M+ households",
+		"img": "/images/portfolio/project-6-1.png",
+		"imgCard3": "/images/portfolio/project-6-3.png",
+		"img2": "/images/portfolio/project-6-2.png",
+		"img3": "/images/portfolio/project-6-3.png",
+		"img4": "/images/portfolio/project-6-4.png",
+		"img5": "/images/portfolio/project-6-5.png",
+		"img6": "/images/portfolio/project-6-6.png",
+		"img7": "/images/portfolio/project-6-7.png",
+		"imgLarge": "/images/portfolio/project-6-1.png",
+		"detailsImg": "/images/portfolio/project-6-2.png",
+		"galleryLayout": "mobile",
+		"desc": "Puls is a leading on-demand home services platform trusted by 2M+ households across major U.S. cities. From TV mounting and appliance repair to plumbing, garage door repair, iPhone repair, and smart home installation — customers book vetted, background-checked technicians available as early as same-day, 7 days a week, backed by a 90-day service guarantee.",
+		"shortDesc": "On-demand home services platform with 2M+ households and 5,000+ vetted technicians",
+		"desc1": "Puls connects homeowners with a nationwide network of 5,000+ background-checked, top-rated technicians for any home repair or installation job — with upfront pricing, real-time technician location tracking, same-day availability, and a 90-day Puls Guarantee on all services. The platform includes a consumer-facing app for booking and managing appointments, and a dedicated technician app for managing jobs, schedules, and earnings. Puls also offers a Puls Whole Home membership — a hybrid home warranty and services plan providing 15% off all services year-round.",
+		"desc2": "Built as two dedicated Flutter apps — one for customers (iOS & Android) and one for technicians/staff (iOS & Android) — backed by a unified platform using React.js, Next.js, Node.js, and Python. OpenAI powers intelligent job matching between customers and nearby technicians, scheduling optimization, and automated customer support. MongoDB handles all job, user, technician, and appointment data at scale across a nationwide operation serving top technicians who earn over $2,000/week.",
+		"category": "On-Demand Services / Mobile App",
+		"featured": true,
+		"featuredDesc": "Puls serves 2M+ households with a 5-star technician rating, background-checked pros, and a 90-day service guarantee. Two Flutter apps — one for customers, one for technicians — power a seamless end-to-end on-demand home services marketplace across major U.S. cities.",
+		"featuredImg": "images/portfolio/project-6-3.png",
+		"employee": {
+			"name": "Puls Inc Team",
+			"desig": "On-Demand Home Services Platform",
+			"img": "https://play-lh.googleusercontent.com/OGgo9w5WLbv5KlHjHKRwWLNg7sbaWO8Jh6Fthh7u4GPwFQeYnOG5SsGzjPtCj6VCRxk=w240-h480"
+		},
+		"tags": [
+			"On-Demand",
+			"Home Services",
+			"Mobile App",
+			"Flutter",
+			"Marketplace"
+		],
+		"dataFilter": "ondemand mobile success lead impact innovate",
+		"links": {
+			"web": "https://puls.com/",
+			"androidCustomer": "https://play.google.com/store/apps/details?id=com.puls.consumers",
+			"androidStaff": "https://play.google.com/store/apps/details?id=com.cellsavers.savers&hl=en_IN",
+			"iosCustomer": "https://apps.apple.com/us/app/puls-home-services/id1530724750",
+			"iosStaff": "https://apps.apple.com/us/app/puls-technician-app/id1441434662"
+		},
+		"statusItem": [
+			{
+				"title": "Category",
+				"desc": "On-Demand Services / Mobile App"
+			},
+			{
+				"title": "Client",
+				"desc": "Puls Inc"
+			},
+			{
+				"title": "Platform",
+				"desc": "iOS & Android — Customer + Staff Apps"
+			},
+			{
+				"title": "Scale",
+				"desc": "2M+ Households, 5,000+ Technicians"
+			}
+		],
+		"techStack": [
+			{
+				"label": "Mobile",
+				"value": "Flutter (iOS & Android)"
+			},
+			{
+				"label": "Frontend",
+				"value": "React.js, Next.js"
+			},
+			{
+				"label": "Backend",
+				"value": "Node.js, Python"
+			},
+			{
+				"label": "AI / ML",
+				"value": "OpenAI"
+			},
+			{
+				"label": "Database",
+				"value": "MongoDB"
+			}
+		],
+		"apps": [
+			{
+				"type": "Customer App",
+				"description": "Book home services, track technician location in real-time, manage appointments, access Puls+ membership savings, and get 24/7 support.",
+				"android": "https://play.google.com/store/apps/details?id=com.puls.consumers",
+				"ios": "https://apps.apple.com/us/app/puls-home-services/id1530724750",
+				"icon": "https://play-lh.googleusercontent.com/OGgo9w5WLbv5KlHjHKRwWLNg7sbaWO8Jh6Fthh7u4GPwFQeYnOG5SsGzjPtCj6VCRxk=w240-h480"
+			},
+			{
+				"type": "Technician App",
+				"description": "Access a consistent stream of local jobs, build your own schedule, track earnings, and manage job statuses. Top techs earn $2,000+/week.",
+				"android": "https://play.google.com/store/apps/details?id=com.cellsavers.savers&hl=en_IN",
+				"ios": "https://apps.apple.com/us/app/puls-technician-app/id1441434662",
+				"icon": "https://play-lh.googleusercontent.com/BBBrH7r_so4TrRynpklHxp5G6OqseO78i8_yugYstwxyWbptr5r30GCq_LDDIVRE1-0=w240-h480",
+				"rating": "4.6★",
+				"downloads": "10K+"
+			}
+		],
+		"descItems": [
+			{
+				"title": "The Story",
+				"desc": "Puls was built on a simple but powerful idea — finding a technician to repair or install anything in your home should take just a tap. Traditional home services were fragmented, opaque in pricing, and unreliable in availability. Puls changed that by building a fully vetted, background-checked nationwide network of 5,000+ technicians deployable on the same day across major U.S. cities. The platform covers TV mounting, appliance repair, handyman services, garage door repair, iPhone repair, plumbing, smart home installation, and more — all backed by upfront transparent pricing and a 90-day service guarantee. Today, Puls is trusted by over 2 million households and has expanded into a Puls Whole Home membership offering year-round home coverage."
+			},
+			{
+				"title": "Our Approach",
+				"desc": "The project required building two distinct Flutter apps from a single ecosystem — a consumer-facing customer app and a technician-facing staff app — both for iOS and Android. The customer app handles service browsing, instant booking, real-time technician GPS tracking, appointment management, and the Puls+ membership. The technician app manages job dispatching, schedule control, earnings tracking, and customer communication. The backend runs on Node.js and Python microservices handling job lifecycle, technician matching, routing, and payment processing. React.js and Next.js power the web platform and internal dashboards. OpenAI drives smart technician-to-job matching based on location, skills, and availability, as well as intelligent scheduling and 24/7 automated customer support. MongoDB serves as the primary data store across all users, jobs, locations, and transactions at national scale."
+			}
+		],
+		"features": [
+			{
+				"title": "Same-Day Booking",
+				"desc": "Book any home repair or installation service and get matched with a vetted technician available as early as the same day, 7 days a week.",
+				"link": "https://puls.com/book-a-service"
+			},
+			{
+				"title": "Real-Time Technician Tracking",
+				"desc": "Get the live location of your technician from the moment they're dispatched — no more waiting without updates.",
+				"link": "https://puls.com/"
+			},
+			{
+				"title": "Background-Checked Technicians",
+				"desc": "Every technician in the Puls network is background-checked, vetted, and top-rated — ensuring safe and reliable service every time.",
+				"link": "https://puls.com/"
+			},
+			{
+				"title": "90-Day Service Guarantee",
+				"desc": "All Puls services come backed by a 90-day guarantee — if something isn't right, Puls will make it right.",
+				"link": "https://puls.com/membership"
+			},
+			{
+				"title": "Puls Whole Home Membership",
+				"desc": "A hybrid home warranty and services membership offering comprehensive appliance and system coverage plus 15% off all Puls services year-round.",
+				"link": "https://puls.com/puls-whole-home"
+			},
+			{
+				"title": "Technician App — Earn & Manage",
+				"desc": "Dedicated Flutter app for technicians to manage jobs, set schedules, and track earnings. Top technicians earn over $2,000/week.",
+				"link": "https://puls.com/join"
+			}
+		],
+		"services": [
+			{
+				"name": "TV Mounting",
+				"link": "https://puls.com/tv-mounting"
+			},
+			{
+				"name": "Home Appliances",
+				"link": "https://puls.com/home-appliances"
+			},
+			{
+				"name": "Handyman Services",
+				"link": "https://puls.com/handyman"
+			},
+			{
+				"name": "iPhone Repair",
+				"link": "https://puls.com/phone-repair"
+			},
+			{
+				"name": "Smart Home Installation",
+				"link": "https://puls.com/smart-home"
+			},
+			{
+				"name": "Garage Door Repair",
+				"link": "https://puls.com/garage-doors"
+			},
+			{
+				"name": "Plumbing Services",
+				"link": "https://puls.com/plumbing"
+			}
+		],
+		"stats": [
+			{
+				"label": "Households Served",
+				"value": "2M+"
+			},
+			{
+				"label": "Technician Network",
+				"value": "5,000+"
+			},
+			{
+				"label": "Service Guarantee",
+				"value": "90 Days"
+			},
+			{
+				"label": "Top Tech Earnings",
+				"value": "$2K+/week"
+			}
+		]
+	},
+	{
+		"id": 3,
+		"title": "LoveAi",
+		"title2": "Project Description",
+		"titleLarge": "An AI-powered dating app built for meaningful, lasting relationships — smarter matchmaking beyond swipes, powered by real-time learning and compatibility intelligence",
+		"img": "/images/portfolio/project-3-1.png",
+		"img2": "/images/portfolio/project-3-2.png",
+		"imgCard3": "/images/portfolio/project-3-3.png",
+		"img3": "/images/portfolio/project-3-3.png",
+		"img4": "/images/portfolio/project-3-4.png",
+		"img5": "/images/portfolio/project-3-5.png",
+		"img6": "/images/portfolio/project-3-6.png",
+		"img7": "/images/portfolio/project-3-7.png",
+		"imgLarge": "/images/portfolio/project-3-5.png",
+		"detailsImg": "/images/portfolio/project-3-5.png",
+		"galleryLayout": "mobile",
+		"desc": "LoveAi is an AI-powered dating app designed for meaningful relationships, not endless swipes. Using advanced matchmaking algorithms and real-time behavioral learning, it connects users based on shared values, lifestyle, and personality — not just photos. Launched August 2025, rated 18+.",
+		"shortDesc": "AI-powered dating app for genuine, lasting connections",
+		"desc1": "LoveAi goes beyond traditioal dating apps by combining intelligent matchmaking, compatibility scoring, and emotional alignment insights to deliver matches that truly resonate. Features include smart messaging with conversation prompts, enhanced privacy with verified profiles, community dating events, and optional in-app relationship coaching — with new features shipping every month.",
+		"desc2": "Built as a Flutter-based cross-platform mobile app for iOS and Android, with an admin panel powered by React.js and Next.js, a Node.js and Python backend, and OpenAI driving the core matchmaking and smart messaging intelligence. MongoDB handles all user, match, and interaction data. Every user is verified, and the platform is committed to maintaining a safe, adult-only environment with strict content moderation standards.",
+		"category": "Dating / Mobile App",
+		"featured": true,
+		"featuredDesc": "LoveAi is built for those who want genuine, selective, and secure relationships. AI-powered matchmaking learns from your behavior and values to surface the right people — not just the nearest ones. Safe. Serious. Selective.",
+		"featuredImg": "/images/portfolio/project-3-3.png",
+		"employee": {
+			"name": "LoveAi Team",
+			"desig": "Dating Tech & AI Product",
+			"img": "/images/portfolio/project-3-3.png"
+		},
+		"tags": [
+			"Dating",
+			"Mobile App",
+			"AI",
+			"Flutter",
+			"Matchmaking"
+		],
+		"dataFilter": "dating mobile success lead impact innovate",
+		"links": {
+			"adminPanel": "https://admin.loveai.co.il/",
+			"android": "https://play.google.com/store/apps/details?id=com.dating.loveai&pcampaignid=web_share",
+			"ios": "In Review"
+		},
+		"statusItem": [
+			{
+				"title": "Category",
+				"desc": "Dating / Mobile App"
+			},
+			{
+				"title": "Client",
+				"desc": "LoveAi"
+			},
+			{
+				"title": "Platform",
+				"desc": "Android (iOS — In Review)"
+			},
+			{
+				"title": "Launch Date",
+				"desc": "August 2025"
+			}
+		],
+		"techStack": [
+			{
+				"label": "Mobile",
+				"value": "Flutter (iOS & Android)"
+			},
+			{
+				"label": "Frontend",
+				"value": "React.js, Next.js"
+			},
+			{
+				"label": "Backend",
+				"value": "Node.js, Python"
+			},
+			{
+				"label": "AI",
+				"value": "OpenAI"
+			},
+			{
+				"label": "Database",
+				"value": "MongoDB"
+			},
+			{
+				"label": "Admin",
+				"value": "Custom Admin Panel"
+			}
+		],
+		"descItems": [
+			{
+				"title": "The Story",
+				"desc": "LoveAi was created with a clear mission — to move the dating experience away from superficial swiping and toward something more meaningful. Built by dating experts and tech professionals, LoveAi uses AI to understand who you really are — your behavior, interests, values, and lifestyle — and uses that understanding to find someone who genuinely complements you. Every match is earned, every profile is verified, and the platform is built exclusively for adults who are serious about finding a real relationship. Launched in August 2025, LoveAi is already serving users and growing rapidly, with iOS currently under App Store review."
+			},
+			{
+				"title": "Our Approach",
+				"desc": "The mobile app is built on Flutter, delivering a consistent and polished experience across both iOS and Android from a single codebase. The admin panel, built with React.js and Next.js, gives the operations team full control over user verification, content moderation, event management, and platform analytics. Node.js and Python power the backend microservices, while OpenAI drives the smart matchmaking engine, compatibility scoring, conversation prompt generation, and relationship coaching features. MongoDB provides the flexible data layer needed for rich user profiles and real-time interaction data. The architecture is designed for scale — ready to handle rapid user growth across supported regions."
+			}
+		],
+		"features": [
+			{
+				"title": "AI-Powered Matchmaking",
+				"desc": "Finds smarter matches based on real-time learning from your behavior, interests, and core values — not just appearance.",
+				"link": "https://play.google.com/store/apps/details?id=com.dating.loveai"
+			},
+			{
+				"title": "Compatibility Insights",
+				"desc": "Go beyond looks with compatibility scores and emotional alignment metrics for every suggested match.",
+				"link": "https://play.google.com/store/apps/details?id=com.dating.loveai"
+			},
+			{
+				"title": "Smart Messaging",
+				"desc": "AI-generated conversation prompts help users break the ice naturally and keep conversations meaningful.",
+				"link": "https://play.google.com/store/apps/details?id=com.dating.loveai"
+			},
+			{
+				"title": "Verified Profiles & Enhanced Privacy",
+				"desc": "Every user is verified. Data is protected and all conversations are secured end-to-end.",
+				"link": "https://play.google.com/store/apps/details?id=com.dating.loveai"
+			},
+			{
+				"title": "Community Events",
+				"desc": "Join curated social meetups and dating events in supported regions to connect beyond the screen.",
+				"link": "https://play.google.com/store/apps/details?id=com.dating.loveai"
+			},
+			{
+				"title": "Relationship Coaching",
+				"desc": "Optional in-app coaching to help users grow personally and build stronger connections with their matches.",
+				"link": "https://play.google.com/store/apps/details?id=com.dating.loveai"
+			}
+		],
+		"stats": [
+			{
+				"label": "Launch Date",
+				"value": "Aug 2025"
+			},
+			{
+				"label": "Age Rating",
+				"value": "18+"
+			},
+			{
+				"label": "iOS Status",
+				"value": "In Review"
+			},
+			{
+				"label": "Platform",
+				"value": "Android + iOS"
+			}
+		]
+	},
+	{
+		"id": 4,
+		"title": "Apollo Tyres",
+		"title2": "Project Description",
+		"titleLarge": "Driving digital transformation for one of India's largest tyre manufacturers — a comprehensive mobile platform for consumers, dealers, and service partners across India and Europe",
+		"img": "/images/portfolio/project-8-1.png",
+		"img2": "/images/portfolio/project-8-2.png",
+		"imgCard3": "/images/portfolio/project-8-1.png",
+		"img3": "/images/portfolio/project-8-3.png",
+		"img4": "/images/portfolio/project-8-4.png",
+		"img5": "/images/portfolio/project-8-5.png",
+		"img6": "/images/portfolio/project-8-6.png",
+		"img7": "/images/portfolio/project-8-7.png",
+		"imgLarge": "/images/portfolio/project-8-1.png",
+		"galleryLayout": "mobile",
+		"detailsImg": "/images/portfolio/project-8-1.png",
+		"figmaDesign": "https://www.figma.com/design/2JSMuIa0bDCPfC1QSK7c37/Apollo-tyres?node-id=0-1&p=f&t=FyWQKjA4pIYPzVlG-0",
+		"desc": "Apollo Tyres is a leading Indian multinational tyre manufacturer, incorporated in 1972 and headquartered in Gurugram, India. Operating manufacturing plants across India, the Netherlands, and Hungary — and selling Apollo and Vredestein branded tyres in over 100 countries — the digital platform was built to serve consumers, authorized dealers, and field service partners through dedicated mobile experiences.",
+		"shortDesc": "Digital platform for India's leading tyre manufacturer — consumer, dealer & partner apps",
+		"desc1": "The project encompasses a full digital ecosystem for Apollo Tyres — covering tyre discovery and product comparison for consumers, order placement and warranty management for Authorized Business Partners (via Apollo Sampark Cloud), a rewards and training program for tyre fitters (Apollo Saarthi), and healthcare access for truck drivers (Swasth Saarthi App). The platform spans India's massive commercial and passenger vehicle tyre market, with integrations for dealer operations, supply chain, and loyalty programs.",
+		"desc2": "Built using Flutter for a cross-platform iOS and Android experience, with a backend powered by React.js, Next.js, Node.js, and Python. OpenAI drives intelligent product recommendations, tyre fitment guidance, and dealer-facing analytics. MongoDB handles all user, order, warranty, reward point, and fitment data across thousands of dealers and service partners. The design system was defined in Figma and covers the full product suite — consumer-facing discovery, B2B dealer portals, and partner loyalty interfaces.",
+		"category": "Automotive / Enterprise Mobile App",
+		"featured": true,
+		"featuredDesc": "Apollo Tyres — sponsor of the Indian national cricket team (₹579 crore, 2025) and the world's 7th largest tyre manufacturer — needed a unified digital ecosystem. The project delivered consumer, dealer, and partner-facing mobile apps built in Flutter, backed by AI-driven recommendations and a scalable enterprise backend.",
+		"featuredImg": "",
+		"employee": {
+			"name": "Apollo Tyres Digital Team",
+			"desig": "Automotive & Enterprise Product",
+			"img": ""
+		},
+		"tags": [
+			"Automotive",
+			"Enterprise",
+			"Mobile App",
+			"Flutter",
+			"B2B"
+		],
+		"dataFilter": "automotive enterprise mobile success lead impact innovate",
+		"links": {
+			"web": "https://www.apollotyres.com/",
+			"figma": "https://www.figma.com/design/2JSMuIa0bDCPfC1QSK7c37/Apollo-tyres?node-id=0-1&p=f&t=FyWQKjA4pIYPzVlG-0"
+		},
+		"statusItem": [
+			{
+				"title": "Category",
+				"desc": "Automotive / Enterprise Mobile App"
+			},
+			{
+				"title": "Client",
+				"desc": "Apollo Tyres Ltd"
+			},
+			{
+				"title": "Platform",
+				"desc": "iOS & Android (Flutter)"
+			},
+			{
+				"title": "Headquartered",
+				"desc": "Gurugram, India (est. 1972)"
+			}
+		],
+		"techStack": [
+			{
+				"label": "Mobile",
+				"value": "Flutter (iOS & Android)"
+			},
+			{
+				"label": "Frontend",
+				"value": "React.js, Next.js"
+			},
+			{
+				"label": "Backend",
+				"value": "Node.js, Python"
+			},
+			{
+				"label": "AI / ML",
+				"value": "OpenAI"
+			},
+			{
+				"label": "Database",
+				"value": "MongoDB"
+			},
+			{
+				"label": "Design",
+				"value": "Figma"
+			}
+		],
+		"descItems": [
+			{
+				"title": "The Story",
+				"desc": "Apollo Tyres, founded in 1972, has grown into one of the world's top tyre manufacturers with plants in India, the Netherlands, and Hungary — selling Apollo and Vredestein branded tyres across 100+ countries. With 87% of revenues from India, the company serves a vast network of consumers, truck fleets, passenger car owners, authorized business partners, and independent tyre fitters. As Apollo Tyres embarked on a digital transformation journey, the challenge was to unify this diverse ecosystem — consumers discovering and buying tyres, dealers managing orders and warranty claims, fitters tracking loyalty rewards, and truck drivers accessing healthcare — into a cohesive, modern mobile platform. The result is a suite of Flutter-based apps that bring Apollo's entire digital touchpoint strategy to life."
+			},
+			{
+				"title": "Our Approach",
+				"desc": "The project was designed Figma-first — with a comprehensive design system covering consumer UI, dealer B2B flows, partner program interfaces, and brand-consistent visual language across Apollo's global identity. Development followed a Flutter cross-platform architecture delivering consistent iOS and Android experiences from a single codebase. The backend, built on Node.js and Python, powers product catalogues, dealer order management, warranty registration, fitment data collection, and loyalty reward processing. OpenAI integrates across the consumer-facing app for intelligent tyre recommendations based on vehicle type, usage, and geography, as well as dealer analytics and supply chain insights. MongoDB's flexible document model handles the wide variety of data — from consumer profiles and vehicle data to dealer account information, fitter reward points, and warranty claims — all at the scale of Apollo's nationwide dealer and partner network."
+			}
+		],
+		"features": [
+			{
+				"title": "Tyre Discovery & Product Comparison",
+				"desc": "Consumers browse Apollo and Vredestein tyre catalogues, compare products by vehicle type, performance rating, and price, and locate the nearest authorized dealer.",
+				"link": "https://www.apollotyres.com/"
+			},
+			{
+				"title": "Apollo Sampark Cloud — Dealer Portal",
+				"desc": "Authorized Business Partners place orders, view real-time account information, register warranties, file claims, and track order history — all from the mobile app.",
+				"link": "https://apps.apple.com/in/app/apollo-sampark-cloud/id6475400134"
+			},
+			{
+				"title": "Apollo Saarthi — Fitter Loyalty Program",
+				"desc": "India's first loyalty and training program for tyre fitters — earn reward points by recommending Apollo Tyres, sharing fitment data, and completing training. Benefits include health insurance and children's scholarships.",
+				"link": "https://play.google.com/store/apps/details?id=com.tfl.apollosaarthi&hl=en_IN"
+			},
+			{
+				"title": "Swasth Saarthi — Trucker Healthcare App",
+				"desc": "Video consultations with doctors and nearest Apollo Healthcare Centre locator for truck drivers on the road. Serves 10,000+ truck drivers across 34 healthcare centres in 21 states.",
+				"link": "https://www.apollotyres.com/"
+			},
+			{
+				"title": "Warranty Registration & Claims",
+				"desc": "End-to-end digital warranty management for dealers and consumers — register tyres, file claims, and track resolution status without visiting a service centre.",
+				"link": "https://apps.apple.com/in/app/apollo-sampark-cloud/id6475400134"
+			},
+			{
+				"title": "AI-Powered Tyre Recommendations",
+				"desc": "OpenAI-driven recommendation engine suggests the right tyre based on vehicle type, driving conditions, geography, and performance preferences.",
+				"link": "https://www.apollotyres.com/"
+			}
+		],
+		"stats": [
+			{
+				"label": "Founded",
+				"value": "1972"
+			},
+			{
+				"label": "Manufacturing Plants",
+				"value": "7 (India + Europe)"
+			},
+			{
+				"label": "Healthcare Beneficiaries",
+				"value": "11M+"
+			},
+			{
+				"label": "Cricket Sponsorship",
+				"value": "₹579 Cr (2025)"
+			}
+		],
+		"brandPresence": {
+			"brands": [
+				"Apollo",
+				"Vredestein"
+			],
+			"markets": [
+				"India",
+				"Europe",
+				"100+ Countries"
+			],
+			"revenueBreakdown": {
+				"india": "87%",
+				"europe": "11%",
+				"others": "2%"
+			}
+		}
+	},
+	{
+		"id": 5,
+		"title": "DOMEZ",
+		"title2": "Project Description",
+		"titleLarge": "Redefining how sports enthusiasts discover, book, and split costs for indoor and outdoor sports facilities — a seamless mobile experience for players, teams, and facility owners",
+		"img": "/images/portfolio/project-9-3.png",
+		"img2": "/images/portfolio/project-9-2.png",
+		"img3": "/images/portfolio/project-9-3.png",
+		"img4": "/images/portfolio/project-9-4.png",
+		"img5": "/images/portfolio/project-9-5.png",
+		"img6": "/images/portfolio/project-9-6.png",
+		"img7": "/images/portfolio/project-9-7.png",
+		"imgLarge": "/images/portfolio/project-9-3.png",
+		"galleryLayout": "mobile",
+		"detailsImg": "/images/portfolio/project-9-3.png",
+		"figmaDesign": "https://www.figma.com/design/7dyu8FuVfV0bcNGwgmwHdv/Dome-Mobile-App--Copy-?node-id=46-584&p=f&t=OiLnzSqf6tVPkkvQ-0",
+		"desc": "DOMEZ is a sports facility booking platform developed by DOMEZ High Tech Inc., built exclusively to serve the unique needs of indoor and outdoor sports venues — pitches, courts, halls, and playing surfaces. The app enables players to instantly search, view, and book facilities in their city, pay in full or split costs equally among teammates, and register for local leagues — all from one intuitive mobile experience.",
+		"shortDesc": "Sports facility booking app — discover, book & split costs with your team",
+		"desc1": "The project delivers a complete mobile ecosystem for the sports booking space — covering facility discovery and real-time availability for players, streamlined booking and payment management for facility owners, split-payment functionality for groups, and league registration for competitive players. The platform is purpose-built for domes, courts, and pitches, with a focus on eliminating the friction of calling venues, settling payments manually, and missing league deadlines.",
+		"desc2": "Designed Figma-first with a clean, sport-forward visual language, the DOMEZ mobile app delivers a consistent iOS and Android experience. The design system covers player-facing discovery and booking flows, facility owner dashboards, group payment interfaces, and league management screens. The platform supports real-time availability views, in-app split payments, and facility profile management — making it the go-to app for sports enthusiasts and venue operators alike.",
+		"category": "Sports & Recreation / Consumer Mobile App",
+		"featured": true,
+		"featuredDesc": "DOMEZ — the fastest booking application for indoor and outdoor sports — needed a product design that matched its ambition: zero friction from discovery to court. The project delivered a sleek, intuitive mobile app where players find facilities, book instantly, and split the bill with teammates in seconds.",
+		"featuredImg": "",
+		"employee": {
+			"name": "DOMEZ High Tech Inc.",
+			"desig": "Sports & Recreation Technology",
+			"img": ""
+		},
+		"tags": [
+			"Sports",
+			"Booking",
+			"Mobile App",
+			"Consumer",
+			"Payments"
+		],
+		"dataFilter": "sports booking consumer mobile payments lifestyle innovate",
+		"links": {
+			"web": "https://domez.io/",
+			"figma": "https://www.figma.com/design/7dyu8FuVfV0bcNGwgmwHdv/Dome-Mobile-App--Copy-?node-id=46-584&p=f&t=OiLnzSqf6tVPkkvQ-0",
+			"appstore": "https://apps.apple.com/ca/app/domez/id6444339880",
+			"playstore": "https://play.google.com/store/apps/details?id=domez.io&hl=en_US"
+		},
+		"statusItem": [
+			{
+				"title": "Category",
+				"desc": "Sports & Recreation / Consumer Mobile App"
+			},
+			{
+				"title": "Client",
+				"desc": "DOMEZ High Tech Inc."
+			},
+			{
+				"title": "Platform",
+				"desc": "iOS & Android"
+			},
+			{
+				"title": "Focus",
+				"desc": "Sports Facility Booking & Payments"
+			}
+		],
+		"techStack": [
+			{
+				"label": "Design",
+				"value": "Figma"
+			},
+			{
+				"label": "Platform",
+				"value": "iOS & Android"
+			},
+			{
+				"label": "Payments",
+				"value": "In-App Split & Full Payment"
+			},
+			{
+				"label": "Availability",
+				"value": "Real-Time Facility Slots"
+			}
+		],
+		"descItems": [
+			{
+				"title": "The Story",
+				"desc": "For sports enthusiasts, booking a dome or court has always been unnecessarily complicated — calling venues one by one, hoping a slot is free, then chasing teammates for their share of the payment. DOMEZ was built to fix exactly that. As a platform solely focused on sports facilities, DOMEZ understands the specific needs of pitches, courts, halls, and playing surfaces better than any general-purpose booking tool. The result is an app that lets players search their city's facilities instantly, view real-time availability and pricing, book in seconds, and split the cost equally among all players — with no awkward money conversations after the game. For facility owners, DOMEZ provides a complete suite of tools to manage bookings, payments, and listings, all from a single platform."
+			},
+			{
+				"title": "Our Approach",
+				"desc": "The design was built Figma-first — establishing a sport-forward visual language that feels energetic, clean, and effortless to navigate. Every screen was designed with the player's journey at its core: from landing on the app and discovering nearby facilities, to selecting a time slot, choosing how to pay (full or split), and confirming a booking in just a few taps. The split-payment flow received special design attention — it needed to be completely frictionless, mathematically transparent, and accessible to all players in a group booking simultaneously. League discovery and registration flows were designed to surface upcoming leagues prominently so competitive players never miss a registration window. The facility owner dashboard was crafted separately as a management-first interface, prioritising booking visibility, availability control, and payment tracking."
+			}
+		],
+		"features": [
+			{
+				"title": "Instant Facility Discovery",
+				"desc": "Search all domes, courts, and pitches available in your city — view rates, facility types, opening hours, and real-time availability without making a single phone call.",
+				"link": "https://apps.apple.com/ca/app/domez/id6444339880"
+			},
+			{
+				"title": "One-Tap Booking",
+				"desc": "Browse available time slots and confirm your booking instantly. No back-and-forth, no waiting — just pick your court and play.",
+				"link": "https://apps.apple.com/ca/app/domez/id6444339880"
+			},
+			{
+				"title": "Split Payment with Teammates",
+				"desc": "DOMEZ's standout feature — divide the booking cost equally among all players with shared access to the payment. No more miscalculations or awkward post-match money chases.",
+				"link": "https://play.google.com/store/apps/details?id=domez.io&hl=en_US"
+			},
+			{
+				"title": "League Registration",
+				"desc": "View all current and upcoming leagues in one place and register your team directly within the app before registration deadlines close.",
+				"link": "https://apps.apple.com/ca/app/domez/id6444339880"
+			},
+			{
+				"title": "Facility Owner Dashboard",
+				"desc": "A complete management suite for facility owners — list sports and games offered, control availability, manage bookings, and track payments all in one place.",
+				"link": "https://domez.io/"
+			},
+			{
+				"title": "Real-Time Availability & Rates",
+				"desc": "Players see live slot availability and pricing for every facility — making it easy to compare options and book the best court for their game.",
+				"link": "https://apps.apple.com/ca/app/domez/id6444339880"
+			}
+		],
+		"stats": [
+			{
+				"label": "Platforms",
+				"value": "iOS & Android"
+			},
+			{
+				"label": "Booking Type",
+				"value": "Instant & Real-Time"
+			},
+			{
+				"label": "Payment Modes",
+				"value": "Full & Split"
+			},
+			{
+				"label": "Focus",
+				"value": "100% Sports Facilities"
+			}
+		],
+		"brandPresence": {
+			"productFocus": "Sports Facility Booking",
+			"userTypes": [
+				"Players",
+				"Teams",
+				"Facility Owners"
+			],
+			"coreValue": "Zero friction from discovery to court"
+		}
+	},
+	{
+		"id": 6,
+		"title": "Studdy AI",
+		"title2": "Project Description",
+		"titleLarge": "The AI tutor that actually teaches you — personalized 1:1 lessons, interactive whiteboard, and instant homework help across every subject for students worldwide",
+		"img": "https://play-lh.googleusercontent.com/TpS-1rCUd3WC6oxwLPyR6IkdyGCSr3yTJrae-OO7Lomb7dMxs47x2t5gLiuOkAE9pg=w526-h296",
+		"img2": "https://play-lh.googleusercontent.com/dr2OkdCvw8sqrQlEmMfp_JPgWDvE-23c6M3oeMKAb0U2Vwuk5m1Cb5jVM3J_xYAB1h8=w526-h296",
+		"img3": "https://play-lh.googleusercontent.com/rJK9M1RZv7xOsUvQZbL2MXpdWTvIcZmlBxi4Hib9EvySYjxU066PwuajQOMd-Kx_zg=w526-h296",
+		"img4": "https://play-lh.googleusercontent.com/l7UepaW__gsE5iz-f7xTg1fT2It-s3-j0cKwLo-EmL57gMHgfBBtyd6tlro2VaX2Ne9Z=w526-h296",
+		"img5": "https://play-lh.googleusercontent.com/5K7uHDRVcAU2yu2xgpydZ9sLStQMzfq37cxHpaddeS8Frs5t7Pjl79LRmgUGkOaFvrd-=w526-h296",
+		"img6": "https://play-lh.googleusercontent.com/UNA82tbxvqqGTWxgXhXPBfQ1EoMDFNZ8D6OCf4zg-a3xP7auNS-TsZxtd_LndNtkYA=w526-h296",
+		"img7": "https://play-lh.googleusercontent.com/LgNf9b-cTRLFFUEjyExDbWyv7Bi7LpiUMS1vIxjgwZf-1Phr3gory12EyYXpsvwAW3I=w526-h296",
+		"img8": "https://play-lh.googleusercontent.com/dUHhjgk4C_DMn07BwnZd7f6IH_hWJwACK3jM6LhoY4BjMAcYHLu1kkA5xXIGgV_5HDJx=w240-h480",
+		"imgLarge": "https://studdyai.com/_next/image?url=%2Fimages%2Fdesktop-whiteboard.png&w=3840&q=75",
+		"detailsImg": "https://play-lh.googleusercontent.com/dr2OkdCvw8sqrQlEmMfp_JPgWDvE-23c6M3oeMKAb0U2Vwuk5m1Cb5jVM3J_xYAB1h8=w526-h296",
+		"desc": "Studdy AI is a free AI-powered tutor and homework helper trusted by students at Harvard, MIT, Stanford, Oxford, and universities worldwide. It delivers unlimited 1:1 personalized lessons on an interactive whiteboard, instant step-by-step solutions, and real-time 24/7 support across every subject — Math, Science, History, Literature, and more.",
+		"shortDesc": "AI tutor & homework helper with personalized 1:1 lessons for every subject",
+		"desc1": "Studdy makes learning genuinely easy — students share their materials or topics, and Studdy crafts a fully personalized lesson delivered step-by-step on an interactive visual whiteboard with audio. Powered by advanced AI and ML, the app recognizes handwritten problems, diagrams, and scanned homework, then explains every step in a way that adapts to each student's learning style. With a 4.4-star rating, 50K+ downloads, and student testimonials showing grade improvements from D to A in just two weeks, Studdy is one of the most impactful EdTech apps available today.",
+		"desc2": "Built as a Flutter-based cross-platform mobile app for iOS and Android, with a web platform built on React.js and Next.js, a Node.js and Python backend, and OpenAI at the core of its tutoring intelligence and adaptive learning engine. MongoDB handles all user data, lesson history, and progress tracking. The architecture supports real-time interactive whiteboard sessions, instant AI answer generation, and personalized lesson planning — all delivered at scale to students across the globe.",
+		"category": "EdTech / Mobile App",
+		"featured": true,
+		"featuredDesc": "Studdy AI is trusted by students at Harvard, MIT, Princeton, Stanford, Oxford, Cambridge, and more. It replaces passive homework copying with active, guided understanding — delivering the world's most accurate AI homework helper that beats all other math solver and homework apps.",
+		"featuredImg": "https://studdyai.com/_next/image?url=%2Fimages%2Fdesktop-whiteboard.png&w=3840&q=75",
+		"employee": {
+			"name": "Studdy AI Team",
+			"desig": "EdTech AI & ML Product",
+			"img": "https://play-lh.googleusercontent.com/dUHhjgk4C_DMn07BwnZd7f6IH_hWJwACK3jM6LhoY4BjMAcYHLu1kkA5xXIGgV_5HDJx=w240-h480"
+		},
+		"tags": [
+			"EdTech",
+			"Mobile App",
+			"AI",
+			"Flutter",
+			"Education"
+		],
+		"dataFilter": "edtech mobile success lead impact innovate",
+		"links": {
+			"web": "https://studdyai.com/",
+			"android": "https://play.google.com/store/apps/details?id=ai.studdy.app.android&hl=en_IN",
+			"ios": "https://apps.apple.com/us/app/studdy-ai-tutor-homework-app/id6450114499"
+		},
+		"statusItem": [
+			{
+				"title": "Category",
+				"desc": "EdTech / Mobile App"
+			},
+			{
+				"title": "Client",
+				"desc": "Studdy AI"
+			},
+			{
+				"title": "Platform",
+				"desc": "iOS & Android (Flutter)"
+			},
+			{
+				"title": "Rating",
+				"desc": "4.4★ — 50K+ Downloads"
+			}
+		],
+		"techStack": [
+			{
+				"label": "Mobile",
+				"value": "Flutter (iOS & Android)"
+			},
+			{
+				"label": "Frontend",
+				"value": "React.js, Next.js"
+			},
+			{
+				"label": "Backend",
+				"value": "Node.js, Python"
+			},
+			{
+				"label": "AI / ML",
+				"value": "OpenAI"
+			},
+			{
+				"label": "Database",
+				"value": "MongoDB"
+			}
+		],
+		"descItems": [
+			{
+				"title": "The Story",
+				"desc": "Studdy was built around a simple but powerful belief — every student deserves a great teacher, available anytime. Traditional tutoring is expensive and hard to access. AI-generated answers without explanation create dependency rather than understanding. Studdy bridges that gap by combining the accessibility of AI with the effectiveness of real 1:1 teaching. Students upload their textbooks, assignments, or practice exams, and Studdy builds a custom lesson just for them — visual, interactive, and paced to their needs. It covers all subjects from Algebra and Calculus to Chemistry, Physics, History, and Literature, and is trusted by students at the world's leading universities including Harvard, MIT, Stanford, Oxford, and Cambridge."
+			},
+			{
+				"title": "Our Approach",
+				"desc": "The mobile app is built with Flutter for a seamless cross-platform experience on both iOS and Android. The web platform runs on React.js and Next.js, powering the interactive whiteboard and user dashboard. Node.js and Python handle backend services including lesson generation, user progress tracking, and integrations. OpenAI drives the core AI tutoring engine — responsible for generating step-by-step lesson plans, recognizing and solving scanned homework problems (including handwriting and diagrams), adapting explanations to each student's pace, and powering the real-time interactive Q&A during lessons. MongoDB stores all user data, lesson histories, and learning progress. The result is a fully personalized, always-available AI tutor that genuinely teaches — not just answers."
+			}
+		],
+		"features": [
+			{
+				"title": "Interactive AI Whiteboard",
+				"desc": "Studdy teaches step-by-step on a live visual and audio whiteboard — students can interrupt and ask questions at any point.",
+				"link": "https://studdyai.com/"
+			},
+			{
+				"title": "Instant Homework Solver",
+				"desc": "Snap a photo of any homework problem — handwritten, printed, or diagram-based — and get accurate step-by-step solutions instantly.",
+				"link": "https://play.google.com/store/apps/details?id=ai.studdy.app.android"
+			},
+			{
+				"title": "All Subjects Covered",
+				"desc": "Full coverage across Math (Algebra, Calculus, Geometry, Statistics), Science (Physics, Chemistry, Biology), and Literature (History, English, Languages).",
+				"link": "https://studdyai.com/"
+			},
+			{
+				"title": "Personalized Lessons",
+				"desc": "Upload your own materials, set your goals and tempo, and Studdy builds a custom lesson plan tailored entirely to your learning style.",
+				"link": "https://studdyai.com/"
+			},
+			{
+				"title": "24/7 AI Tutor",
+				"desc": "Unlimited 1:1 lessons available round the clock — no scheduling, no waiting, no extra cost.",
+				"link": "https://studdyai.com/"
+			},
+			{
+				"title": "University Partnerships",
+				"desc": "Trusted by students at Harvard, MIT, Stanford, Princeton, Oxford, Cambridge, UCLA, and more leading institutions worldwide.",
+				"link": "https://studdyai.com/partnerships"
+			}
+		],
+		"stats": [
+			{
+				"label": "App Rating",
+				"value": "4.4★"
+			},
+			{
+				"label": "Downloads",
+				"value": "50K+"
+			},
+			{
+				"label": "Reviews",
+				"value": "1.65K+"
+			},
+			{
+				"label": "Age Rating",
+				"value": "3+"
+			}
+		],
+		"trustedBy": [
+			"Harvard University",
+			"MIT",
+			"Stanford University",
+			"Princeton University",
+			"UCLA",
+			"University of Oxford",
+			"University of Cambridge",
+			"University of Michigan",
+			"University of Chicago",
+			"University of Pennsylvania",
+			"Michigan State University",
+			"University of Toronto"
+		]
+	},
+	{
+		"id": 7,
+		"title": "Purse Money",
+		"title2": "Project Description",
+		"titleLarge": "Transforming cross-border payments with a multi-currency fintech platform for individuals and businesses worldwide",
+		"img": "/images/portfolio/project-1-2.png",
+		"img2": "/images/portfolio/project-1-2.png",
+		"img3": "/images/portfolio/project-1-1.png",
+		"img4": "https://purse.money/assets/images/card-2.png",
+		"img5": "https://purse.money/assets/images/man-happy.png",
+		"img6": "https://purse.money/assets/images/charge-notification.png",
+		"img7": "https://purse.money/assets/images/qr-code-app-2.svg",
+		"img8": "https://purse.money/assets/images/Logo-Dark-2.png",
+		"imgLarge": "https://purse.money/assets/images/ui-mock-up.png",
+		"detailsImg": "https://purse.money/assets/images/mobile-banner.svg",
+		"desc": "Purse Money is a global fintech platform that enables individuals and businesses to receive, hold, exchange, and send money across 30+ currencies — with no hidden fees, real exchange rates, and industry-standard banking security.",
+		"shortDesc": "Multi-currency fintech app for global and cross-border payments",
+		"desc1": "Purse Money provides a seamless multi-wallet experience that lets users open sub-accounts in 30+ currencies, send money internationally in under 5 minutes, and redefine spending with instant virtual card creation — all powered by a robust API for business integrations.",
+		"desc2": "The platform is built as a cross-platform mobile app using Flutter for iOS and Android, backed by a modern web stack including React.js, Next.js, and Node.js, with Python and OpenAI powering intelligent financial features, and MongoDB as the primary database. The result is a fast, secure, and scalable global payments experience for both consumers and enterprises.",
+		"category": "Fintech / Mobile App",
+		"featured": true,
+		"featuredDesc": "Purse Money enables effortless cross-border payments through an OTC system, multi-currency virtual accounts, and virtual cards — making global finance accessible to everyone with no hidden charges and real exchange rates.",
+		"featuredImg": "https://purse.money/assets/images/ui-mock-up.png",
+		"employee": {
+			"name": "Purse Money Team",
+			"desig": "Fintech Product & Engineering",
+			"img": "https://purse.money/assets/images/Logo-Dark-2.png"
+		},
+		"tags": [
+			"Fintech",
+			"Mobile App",
+			"Payments",
+			"Flutter",
+			"AI"
+		],
+		"dataFilter": "fintech mobile impact innovate",
+		"links": {
+			"web": "https://purse.money/global",
+			"android": "https://play.google.com/store/apps/details?id=money.purse.app&hl=en_IN",
+			"ios": "https://apps.apple.com/us/app/purse-money/id6449368744"
+		},
+		"statusItem": [
+			{
+				"title": "Category",
+				"desc": "Fintech / Mobile App"
+			},
+			{
+				"title": "Client",
+				"desc": "Purse Money"
+			},
+			{
+				"title": "Platform",
+				"desc": "iOS & Android (Flutter)"
+			},
+			{
+				"title": "Website",
+				"desc": "purse.money/global"
+			}
+		],
+		"techStack": [
+			{
+				"label": "Mobile",
+				"value": "Flutter (iOS & Android)"
+			},
+			{
+				"label": "Frontend",
+				"value": "React.js, Next.js"
+			},
+			{
+				"label": "Backend",
+				"value": "Node.js, Python"
+			},
+			{
+				"label": "AI",
+				"value": "OpenAI"
+			},
+			{
+				"label": "Database",
+				"value": "MongoDB"
+			}
+		],
+		"descItems": [
+			{
+				"title": "The Story",
+				"desc": "Purse Money was built to solve a real and persistent problem — the high cost and complexity of cross-border payments. Traditional financial institutions charge hidden fees, offer poor exchange rates, and make international transfers slow and frustrating. Purse Money flips this by offering real exchange rates, zero hidden charges, and the ability to hold and manage 30+ currencies from a single app. Whether you are an individual sending money home or a business paying suppliers overseas, Purse Money makes it simple, fast, and fair."
+			},
+			{
+				"title": "Our Approach",
+				"desc": "We built Purse Money as a Flutter-based cross-platform mobile application to deliver a consistent, high-quality experience on both iOS and Android. The backend is powered by a combination of Node.js and Python microservices, with Next.js and React.js handling the web platform. OpenAI is integrated to bring intelligent features to users, while MongoDB provides a flexible, scalable data layer. The architecture was designed from the ground up to be API-first, allowing businesses to integrate Purse Money's payment rails directly into their own platforms via our OTC and API systems."
+			}
+		],
+		"features": [
+			{
+				"title": "Multi Wallet",
+				"desc": "Receive, hold, and exchange money in 30+ currencies with no hidden fees.",
+				"link": "https://purse.money/global/multi-wallet"
+			},
+			{
+				"title": "Send Money",
+				"desc": "Send money internationally in under 5 minutes to recipients worldwide.",
+				"link": "https://purse.money/global/send-money"
+			},
+			{
+				"title": "Exchange Money",
+				"desc": "Convert currencies at the real exchange rate with no surprise charges.",
+				"link": "https://purse.money/global/exchange-money"
+			},
+			{
+				"title": "Virtual Cards",
+				"desc": "Create a virtual card in minutes and start spending online globally.",
+				"link": "https://purse.money/global/cards"
+			}
+		]
+	},
+	{
+		"id": 8,
+		"title": "Rx2Go",
+		"title2": "Project Description",
+		"titleLarge": "The leading AI-powered prescription delivery management platform serving pharmacies across New York, New Jersey, California, Florida and beyond",
+		"img": "https://rx2go.ai/img/first-screen/phone.jpg",
+		"img2": "https://rx2go.ai/img/first-screen/2.jpg",
+		"img3": "https://rx2go.ai/img/first-screen/4.jpg",
+		"img4": "https://rx2go.ai/img/first-screen/5.jpg",
+		"img5": "https://rx2go.ai/img/icons/logo.svg",
+		"img6": "https://rx2go.ai/img/hippa-logo.svg",
+		"img7": "https://rx2go.ai/img/soc2.svg",
+		"img8": "https://rx2go.ai/img/hl7-logo.png",
+		"imgLarge": "https://rx2go.ai/img/first-screen/phone.jpg",
+		"detailsImg": "https://rx2go.ai/img/first-screen/phone.jpg",
+		"desc": "Rx2Go is the leading prescription delivery service in the USA — offering pharmacies a fully integrated, HIPAA-compliant, SOC2-certified platform to automate deliveries, track orders in real-time, and keep patients informed at every step. Over 15 million prescriptions delivered successfully.",
+		"shortDesc": "AI-powered prescription delivery & medicine management system for pharmacies",
+		"desc1": "Rx2Go seamlessly integrates with existing pharmacy software (PrimeRx, PioneerRx, BestRx, Epic, and more) to automate delivery workflows, eliminate double entry, and give both pharmacies and patients full visibility into every order. With 1,000+ HIPAA-compliant drivers, route optimization, online signatures, and a 24/7 dispatch support team, Rx2Go sets the gold standard for pharmaceutical last-mile logistics.",
+		"desc2": "Built as a Flutter-based cross-platform mobile app for iOS and Android, with a web dashboard powered by React.js and Next.js, a Node.js and Python backend, and OpenAI-driven intelligence for dispatch optimization and anomaly detection — all persisted in MongoDB. The system is HL7 International compliant, fully HIPAA compliant, and the only medication delivery platform in the industry with SOC2 certification.",
+		"category": "Healthtech / Mobile App",
+		"featured": true,
+		"featuredDesc": "Rx2Go powers 2M+ deliveries per month — 100K+ per day, 70+ per minute — across multiple US states. The platform gives pharmacies real-time tracking, proof of delivery, customizable patient notifications, and full integration with their existing pharmacy management software through an open API.",
+		"featuredImg": "https://rx2go.ai/img/first-screen/phone.jpg",
+		"employee": {
+			"name": "Rx2Go Engineering Team",
+			"desig": "Healthtech Product & Delivery Platform",
+			"img": "https://rx2go.ai/img/icons/logo.svg"
+		},
+		"tags": [
+			"Healthtech",
+			"Mobile App",
+			"Pharmacy",
+			"AI",
+			"Flutter"
+		],
+		"dataFilter": "healthtech mobile success lead impact",
+		"links": {
+			"web": "https://rx2go.ai/",
+			"dashboard": "https://ph.rx2go.ai/login",
+			"android": "https://play.google.com/store/apps/details?id=nyc.rx2go.driver&hl=en_IN",
+			"ios": "https://apps.apple.com/us/app/rx2go-driver-app/id1531010730"
+		},
+		"statusItem": [
+			{
+				"title": "Category",
+				"desc": "Healthtech / Mobile App"
+			},
+			{
+				"title": "Client",
+				"desc": "Rx2Go"
+			},
+			{
+				"title": "Platform",
+				"desc": "iOS & Android (Flutter)"
+			},
+			{
+				"title": "Website",
+				"desc": "rx2go.ai"
+			}
+		],
+		"techStack": [
+			{
+				"label": "Mobile",
+				"value": "Flutter (iOS & Android)"
+			},
+			{
+				"label": "Frontend",
+				"value": "React.js, Next.js"
+			},
+			{
+				"label": "Backend",
+				"value": "Node.js, Python"
+			},
+			{
+				"label": "AI",
+				"value": "OpenAI"
+			},
+			{
+				"label": "Database",
+				"value": "MongoDB"
+			},
+			{
+				"label": "Compliance",
+				"value": "HIPAA, SOC2, HL7 International"
+			}
+		],
+		"descItems": [
+			{
+				"title": "The Story",
+				"desc": "Rx2Go was built to solve one of healthcare's most overlooked challenges — reliable, safe, and trackable last-mile delivery of prescription medicines. Traditional courier services lacked HIPAA compliance, real-time visibility, and integration with pharmacy management systems. Rx2Go changed that by building a purpose-made platform for pharmacies that handles everything from delivery scheduling and route optimization to patient notifications and electronic proof of delivery. Today, Rx2Go serves pharmacies across New York, New Jersey, Pennsylvania, Connecticut, Massachusetts, California, Florida, and Ohio — and has successfully delivered over 15 million prescriptions."
+			},
+			{
+				"title": "Our Approach",
+				"desc": "We developed Rx2Go as a Flutter-based cross-platform mobile app delivering a consistent, high-performance experience for drivers on both iOS and Android. The web dashboard is built with React.js and Next.js, giving pharmacy staff and dispatchers a powerful, real-time command center. Node.js and Python microservices handle core delivery logic, integrations, and business rules, while OpenAI powers intelligent dispatching, anomaly detection, and route suggestions. MongoDB serves as the primary data store for its flexibility across varied delivery and patient data schemas. The entire platform is designed API-first — enabling seamless two-way integration with leading pharmacy software including PrimeRx, PioneerRx, BestRx, Epic, Liberty, and many others."
+			}
+		],
+		"features": [
+			{
+				"title": "Real-Time Order Tracking",
+				"desc": "Give patients peace of mind with live GPS tracking and automated delivery status updates at every step.",
+				"link": "https://rx2go.ai/"
+			},
+			{
+				"title": "Pharmacy Software Integration",
+				"desc": "Connects seamlessly with PrimeRx, PioneerRx, BestRx, Epic, Liberty, SuiteRx, and more via open API.",
+				"link": "https://rx2go.ai/technology-behind.html"
+			},
+			{
+				"title": "HIPAA & SOC2 Compliance",
+				"desc": "The only medication delivery platform with SOC2 certification, full HIPAA compliance, and HL7 International data standards.",
+				"link": "https://rx2go.ai/"
+			},
+			{
+				"title": "Driver Management App",
+				"desc": "Flutter-based iOS and Android app for HIPAA-compliant drivers with route optimization and proof of delivery capture.",
+				"link": "https://play.google.com/store/apps/details?id=nyc.rx2go.driver&hl=en_IN"
+			}
+		],
+		"stats": [
+			{
+				"label": "Prescriptions Delivered",
+				"value": "15M+"
+			},
+			{
+				"label": "Deliveries Per Month",
+				"value": "2M+"
+			},
+			{
+				"label": "Deliveries Per Day",
+				"value": "100K+"
+			},
+			{
+				"label": "HIPAA-Compliant Drivers",
+				"value": "1000+"
+			}
+		]
+	},
+	{
+		"id": 9,
+		"title": "Temper",
+		"title2": "Project Description",
+		"titleLarge": "The platform for flexible freelance work — find 20,000+ shifts per week in hospitality, retail, logistics, and facility services across the UK, Netherlands and beyond",
+		"img": "https://play-lh.googleusercontent.com/6yAUwKlxiqugpBPLVCnzZ6SDND_J238jidOl12KzLT04xAHd3QUSCm7QG4lx_ZE9GI4=w526-h296",
+		"img2": "https://play-lh.googleusercontent.com/8jCZ6nC3ThrK9haUQqQMXGxVLfLNk8-5j3a617NQot1mbQ0WdKNrA47Y01apd78US5ZD=w526-h296",
+		"img3": "https://play-lh.googleusercontent.com/GS_7mllcLSjxvBRoGmwgS5TRUxp1kwQCiFm_vHOAcJ7bGAu69K2bnugrbDzt6dJf82cO=w526-h296",
+		"img4": "https://play-lh.googleusercontent.com/QRyP_JkOA4frhIKmbR-pqB1ND0xMkuzTApXxYpYqL8SFKfLRpBZrpdVhRsw4pGUQvUs=w526-h296",
+		"img5": "https://play-lh.googleusercontent.com/Dsv5w0pHBEKfX0HDMk0eZlS7AfefIDh4UpIqeXa5hUxRVNoPOeLiPPjRIQzYVGh2=w526-h296",
+		"img6": "https://play-lh.googleusercontent.com/BNeTOBzjIKk34MllhoDl7jYIGXFOWgGI-2xOrt9gA7CFm3d1-vx-lMaeKeizQLn0PMU=w526-h296",
+		"img7": "https://play-lh.googleusercontent.com/4GAI6kx1RGJ3QQUjjlZMNMtIxBt5_LOQovv722LQ4AJIctmuhXheGUkyrmyZS7ew7Lrw=w526-h296",
+		"img8": "https://play-lh.googleusercontent.com/uj6pgUW1sxPuvCBACwpspnWR7sTcrGFjZc1cx4CGok0Qy0Xq1-LhBcOVZqpSpfeB-g=w240-h480",
+		"imgLarge": "https://play-lh.googleusercontent.com/6yAUwKlxiqugpBPLVCnzZ6SDND_J238jidOl12KzLT04xAHd3QUSCm7QG4lx_ZE9GI4=w526-h296",
+		"detailsImg": "https://play-lh.googleusercontent.com/8jCZ6nC3ThrK9haUQqQMXGxVLfLNk8-5j3a617NQot1mbQ0WdKNrA47Y01apd78US5ZD=w526-h296",
+		"desc": "Temper is the leading freelance gig platform offering 20,000+ shifts per week across the UK and Netherlands — connecting workers with flexible, well-paid shifts in hospitality, retail, logistics, facility services, construction, and horticulture. Workers set their own hourly rate, choose their own schedule, and get paid fast. Businesses get instant access to vetted, flexible talent with seamless integrations.",
+		"shortDesc": "On-demand freelance gig platform with 20,000+ weekly shifts across multiple sectors",
+		"desc1": "Temper gives freelancers true flexibility — sign up free, complete a profile, and start working shifts as a barista, sales assistant, order picker, or any of thousands of other roles. The Freelancer App lets workers browse and claim shifts, track earnings, and manage their schedule. The Staff App (Temper Staff) operates under an employment contract model, handling all administrative work — pension contributions, travel reimbursements, and guaranteed pay even on last-minute client cancellations. Businesses use Temper to post shifts, manage flexpools of preferred workers, and integrate with existing HR systems via API.",
+		"desc2": "Built as two dedicated Flutter apps — one for freelance workers (iOS & Android) and one for staff/employed workers (iOS & Android) — with a backend powered by React.js, Next.js, Node.js, and Python. OpenAI drives intelligent shift matching, personalized shift recommendations, and worker-client fit scoring. MongoDB handles all shift, worker, client, and earnings data across thousands of concurrent shifts and users. The platform integrates with major HR and workforce management systems and serves hospitality, retail, logistics, facility services, construction, and horticulture sectors.",
+		"category": "On-Demand Jobs / Mobile App",
+		"featured": true,
+		"featuredDesc": "Temper powers flexible work for thousands of freelancers — 20,000+ shifts per week, instant pay, self-set hourly rates, and zero admin hassle. Two Flutter apps serve both freelancers and employed staff, while businesses get a powerful shift management platform with API integrations and flexpools.",
+		"featuredImg": "https://play-lh.googleusercontent.com/6yAUwKlxiqugpBPLVCnzZ6SDND_J238jidOl12KzLT04xAHd3QUSCm7QG4lx_ZE9GI4=w526-h296",
+		"employee": {
+			"name": "Temper Team",
+			"desig": "On-Demand Gig Work Platform",
+			"img": "https://play-lh.googleusercontent.com/uj6pgUW1sxPuvCBACwpspnWR7sTcrGFjZc1cx4CGok0Qy0Xq1-LhBcOVZqpSpfeB-g=w240-h480"
+		},
+		"tags": [
+			"On-Demand",
+			"Gig Economy",
+			"Mobile App",
+			"Flutter",
+			"Jobs"
+		],
+		"dataFilter": "ondemand mobile jobs success lead impact innovate",
+		"links": {
+			"web": "https://go.temper.works/en-gb",
+			"androidWorker": "https://play.google.com/store/apps/details?id=works.temper.temperAndroid",
+			"androidStaff": "https://play.google.com/store/apps/details?id=temper.worker.android&hl=en_IN",
+			"iosWorker": "https://apps.apple.com/nl/app/temper-werk-als-freelancer/id1255468771",
+			"iosStaff": "https://apps.apple.com/nl/app/temper-staff/id6738905807"
+		},
+		"statusItem": [
+			{
+				"title": "Category",
+				"desc": "On-Demand Jobs / Mobile App"
+			},
+			{
+				"title": "Client",
+				"desc": "Temper"
+			},
+			{
+				"title": "Platform",
+				"desc": "iOS & Android — Worker + Staff Apps"
+			},
+			{
+				"title": "Scale",
+				"desc": "20,000+ Shifts Per Week"
+			}
+		],
+		"techStack": [
+			{
+				"label": "Mobile",
+				"value": "Flutter (iOS & Android)"
+			},
+			{
+				"label": "Frontend",
+				"value": "React.js, Next.js"
+			},
+			{
+				"label": "Backend",
+				"value": "Node.js, Python"
+			},
+			{
+				"label": "AI / ML",
+				"value": "OpenAI"
+			},
+			{
+				"label": "Database",
+				"value": "MongoDB"
+			}
+		],
+		"apps": [
+			{
+				"type": "Worker App (Freelancer)",
+				"description": "Browse and claim shifts, set your own hourly rate and schedule, track earnings, and get paid fast. Works across hospitality, retail, logistics, and more.",
+				"android": "https://play.google.com/store/apps/details?id=works.temper.temperAndroid",
+				"ios": "https://apps.apple.com/nl/app/temper-werk-als-freelancer/id1255468771",
+				"icon": "https://play-lh.googleusercontent.com/uj6pgUW1sxPuvCBACwpspnWR7sTcrGFjZc1cx4CGok0Qy0Xq1-LhBcOVZqpSpfeB-g=w240-h480"
+			},
+			{
+				"type": "Staff App (Employed Model)",
+				"description": "Work on short-term employment contracts with zero admin. Includes pension contributions, travel reimbursements, guaranteed pay on cancellations.",
+				"android": "https://play.google.com/store/apps/details?id=temper.worker.android&hl=en_IN",
+				"ios": "https://apps.apple.com/nl/app/temper-staff/id6738905807",
+				"icon": "https://play-lh.googleusercontent.com/E0NszBhfBFxBvFFfaQd53fE20NQ3dj3aLiNZw_LDl-WZoWi8DfYQZjWRpv3EAhDKk4o=w240-h480",
+				"rating": "3.5★",
+				"downloads": "10K+"
+			}
+		],
+		"descItems": [
+			{
+				"title": "The Story",
+				"desc": "Temper was founded to solve the fundamental mismatch between businesses that need flexible staff and workers who want control over their time. Traditional employment is too rigid; traditional temp agencies too slow and expensive. Temper built a two-sided marketplace that gives workers true autonomy — pick your own shifts, set your own rate, work when you want — while giving businesses instant access to vetted, reliable talent they can deploy within hours. Operating across the UK, Netherlands, and Belgium in sectors including hospitality, retail, logistics, facility services, construction, and horticulture, Temper now lists 20,000+ shifts every single week."
+			},
+			{
+				"title": "Our Approach",
+				"desc": "The project required two distinct Flutter apps catering to different work models: the Worker App for freelancers who operate independently with their own VAT or CoC registration, and the Staff App for workers who prefer the security of an employment contract without the admin burden. Both apps are built in Flutter for a unified cross-platform iOS and Android experience. The backend runs on Node.js and Python microservices handling shift lifecycle, worker-client matching, payment processing, pension contributions, and HR integrations. React.js and Next.js power the web platform and business dashboard. OpenAI enables intelligent shift recommendations tailored to each worker's skills, location, and history, as well as automated business matching and flexpool optimization. MongoDB handles all shift, worker, business, and transaction data at scale across multiple countries and sectors."
+			}
+		],
+		"features": [
+			{
+				"title": "20,000+ Weekly Shifts",
+				"desc": "Browse thousands of available shifts every week across hospitality, retail, logistics, construction, facility services, and horticulture.",
+				"link": "https://uk.temper.works/find-work"
+			},
+			{
+				"title": "Set Your Own Rate & Schedule",
+				"desc": "Freelancers set their own hourly rate and choose exactly when and where they work — complete flexibility, no commitments.",
+				"link": "https://go.temper.works/en-gb/#why-temper"
+			},
+			{
+				"title": "Flexpools for Businesses",
+				"desc": "Companies build private pools of their preferred workers for instant, reliable repeat deployments — no starting from scratch every shift.",
+				"link": "https://go.temper.works/en-gb/business/flexpools"
+			},
+			{
+				"title": "Staff App — Employment Contract Model",
+				"desc": "For workers who prefer employment security: pension, travel reimbursement, and guaranteed pay even on last-minute cancellations, with zero admin.",
+				"link": "https://apps.apple.com/nl/app/temper-staff/id6738905807"
+			},
+			{
+				"title": "API Integrations",
+				"desc": "Seamless integration with existing HR, workforce management, and payroll systems — allowing businesses to manage Temper shifts inside their own tools.",
+				"link": "https://go.temper.works/en-gb/business/api-integration"
+			},
+			{
+				"title": "Instant Pay",
+				"desc": "Workers get paid quickly after shift completion — no chasing invoices, no delays. Staff app workers are paid in full the week after checkout.",
+				"link": "https://go.temper.works/en-gb/earnings"
+			}
+		],
+		"sectors": [
+			"Hospitality",
+			"Retail",
+			"Logistics",
+			"Facility Services",
+			"Construction",
+			"Horticulture"
+		],
+		"stats": [
+			{
+				"label": "Weekly Shifts",
+				"value": "20,000+"
+			},
+			{
+				"label": "Countries",
+				"value": "UK, NL, BE"
+			},
+			{
+				"label": "Staff App Downloads",
+				"value": "10K+"
+			},
+			{
+				"label": "Work Models",
+				"value": "Freelance + Employment"
+			}
+		]
+	},
+	{
+		"id": 10,
+		"title": "Equito",
+		"title2": "Project Description",
+		"titleLarge": "The first mobile app to invest in fractions of real estate from €100 — earn monthly rental income, build your portfolio, and access exclusive Spanish properties with ease",
+		"img": "https://play-lh.googleusercontent.com/zrCoyQPKvNqhjSsyZEaYYMoTWS5AXmZHwnUuiSaW2ycXqlrQ1YggDf9pv6lb0G09EA=w526-h296",
+		"img2": "https://play-lh.googleusercontent.com/lqWOjM_YthwIC02WhEVrElYA4pTDd5za7IZwzWfD0np_MzQo_o7rKfLoZ6dHboA-DZE=w526-h296",
+		"img3": "https://play-lh.googleusercontent.com/51rgMhkYRIgueSu4NodoQL0R3-RjSEWPs0NwM8B7U1Qx72rP4Pg7RaZQNrizZvZA4PM=w526-h296",
+		"img4": "https://play-lh.googleusercontent.com/6Tr2KIOuujVWU-fafto_grA3cfzk_rNjWtNOnLSqnJf0hzf-N-eZv_idFLxk2TixNw=w526-h296",
+		"img5": "https://play-lh.googleusercontent.com/MEZj8yGy-Kj3gRPRjCxHOeGimNfSCKbwID9d1px1Urpu_od6ITYpqRPy8d5g0ZBAGzG6=w526-h296",
+		"img6": "https://play-lh.googleusercontent.com/vE78Xc8jeMXM4rvGEUrQ4NhCVZ1OZaCMb9KxUunYa5jeSnFNTndDVm6G-z7yp636l5s=w526-h296",
+		"img7": "https://play-lh.googleusercontent.com/Jh_ISdYZTfA-E4ozLVQZOhZNqi40TIzhxad2QeCmIU_t9FuP3mq-Y80uua4MrzlKerXD=w526-h296",
+		"img8": "https://play-lh.googleusercontent.com/OR-aO2reZ-DlCZg56YjhpcbB-0SVpogKQihYnwtRK52Iuxzgb7Pzdp95UQei2GMVzA=w240-h480",
+		"imgLarge": "https://cdn.prod.website-files.com/67ab1dee3ea1e0c3a6b07777/68650bde4f9fc6bad32faaf4_equito-banner-home-EN.avif",
+		"detailsImg": "https://cdn.prod.website-files.com/67ab1dee3ea1e0c3a6b07777/683ff9eed269ac1cecf3b5d7_iphone%2014%20pro-Photoroom.avif",
+		"desc": "Equito is the first mobile app enabling anyone to invest in fractions of real estate properties from just €100. Based in Barcelona, the platform gives 225,000+ users access to exclusive Spanish property investments — buy tokens, receive monthly rental income directly in the app, and build a diversified real estate portfolio without the traditional barriers of property ownership.",
+		"shortDesc": "Fractional real estate investment app — earn monthly rental income from €100",
+		"desc1": "Equito democratizes real estate investment by breaking properties into digital tokens, each purchasable from €100. Users browse curated Spanish properties on the in-app marketplace, invest in fractions, and start receiving monthly rental income without ever needing to manage a property. The platform handles all due diligence, legal structuring, and property management — investors simply track earnings and portfolio growth in the app. Featured in La Vanguardia, EjePrime, and multiple major financial publications across Spain.",
+		"desc2": "Built as a Flutter-based cross-platform mobile app for iOS and Android, with a backend powered by React.js, Next.js, Node.js, and Python. OpenAI drives intelligent property recommendations, portfolio analysis, and investor onboarding assistance. MongoDB handles all user, investment, property token, and rental income distribution data. The architecture supports real-time portfolio dashboards, tokenized property ownership records, automated monthly rent distribution, and KYC/identity verification — all at scale for 225K+ registered investors.",
+		"category": "PropTech / Real Estate / Mobile App",
+		"featured": true,
+		"featuredDesc": "Equito has 225K+ registered investors and is backed by coverage in La Vanguardia, EjePrime, and major Spanish financial media. The platform is expanding to invest €30M+ in 122+ homes — making real estate investment as accessible as buying a stock, starting from just €100.",
+		"featuredImg": "https://cdn.prod.website-files.com/67ab1dee3ea1e0c3a6b07777/68650bde4f9fc6bad32faaf4_equito-banner-home-EN.avif",
+		"employee": {
+			"name": "Equito Team",
+			"desig": "PropTech & Real Estate Investment Platform",
+			"img": "https://play-lh.googleusercontent.com/OR-aO2reZ-DlCZg56YjhpcbB-0SVpogKQihYnwtRK52Iuxzgb7Pzdp95UQei2GMVzA=w240-h480"
+		},
+		"tags": [
+			"PropTech",
+			"Real Estate",
+			"Mobile App",
+			"Flutter",
+			"Fintech"
+		],
+		"dataFilter": "proptech fintech mobile success lead impact innovate",
+		"links": {
+			"web": "https://www.equito.app/",
+			"android": "https://play.google.com/store/apps/details?id=com.equito.app&pcampaignid=web_share",
+			"ios": "https://apps.apple.com/us/app/equito-app/id1610329050"
+		},
+		"statusItem": [
+			{
+				"title": "Category",
+				"desc": "PropTech / Real Estate / Mobile App"
+			},
+			{
+				"title": "Client",
+				"desc": "Equito"
+			},
+			{
+				"title": "Platform",
+				"desc": "iOS & Android (Flutter)"
+			},
+			{
+				"title": "Community",
+				"desc": "225K+ Registered Investors"
+			}
+		],
+		"techStack": [
+			{
+				"label": "Mobile",
+				"value": "Flutter (iOS & Android)"
+			},
+			{
+				"label": "Frontend",
+				"value": "React.js, Next.js"
+			},
+			{
+				"label": "Backend",
+				"value": "Node.js, Python"
+			},
+			{
+				"label": "AI / ML",
+				"value": "OpenAI"
+			},
+			{
+				"label": "Database",
+				"value": "MongoDB"
+			}
+		],
+		"descItems": [
+			{
+				"title": "The Story",
+				"desc": "Equito was built around a bold mission — to make real estate investment accessible to everyone, not just the wealthy. Traditionally, buying property requires significant capital, legal expertise, and ongoing management. Equito strips all of that away by tokenizing properties and allowing anyone to buy fractional ownership from just €100. Based in Barcelona, the platform focuses on exclusive Spanish real estate, handling all due diligence, legal structuring, and property management on behalf of investors. Users simply choose properties they believe in, invest what they can afford, and receive monthly rental income directly in the app — making real estate as simple as a stock trade. Today, Equito has 225,000+ registered investors and plans to invest €30M+ in over 122 homes."
+			},
+			{
+				"title": "Our Approach",
+				"desc": "The mobile app is built in Flutter for a seamless, consistent experience across iOS and Android. The backend runs on Node.js and Python microservices handling property tokenization, investment processing, KYC/identity verification, monthly rental income distribution, and portfolio analytics. React.js and Next.js power the web platform and investor dashboard. OpenAI provides intelligent property recommendations based on each investor's portfolio, risk tolerance, and preferences — as well as onboarding assistance and automated investor Q&A. MongoDB serves as the primary data store for all user accounts, property tokens, investment records, and rental distribution history. The architecture is designed to scale to thousands of concurrent property listings and hundreds of thousands of investors across multiple markets."
+			}
+		],
+		"features": [
+			{
+				"title": "Fractional Investment from €100",
+				"desc": "Buy tokenized fractions of curated Spanish real estate properties starting from just €100 — no large capital required.",
+				"link": "https://www.equito.app/how-it-works"
+			},
+			{
+				"title": "Monthly Rental Income",
+				"desc": "Receive proportional monthly rental income directly in the app based on your ownership fraction — passive income made simple.",
+				"link": "https://www.equito.app/"
+			},
+			{
+				"title": "Property Marketplace",
+				"desc": "Browse a curated marketplace of exclusive Spanish investment properties with full due diligence, financials, and yield projections displayed upfront.",
+				"link": "https://www.equito.app/"
+			},
+			{
+				"title": "Portfolio Dashboard",
+				"desc": "Track all your investments, total earnings, monthly income, and portfolio performance in one real-time dashboard.",
+				"link": "https://www.equito.app/"
+			},
+			{
+				"title": "Identity Verification & KYC",
+				"desc": "Fast and secure identity verification built into the onboarding flow — sign up, verify your ID, and start investing in minutes.",
+				"link": "https://www.equito.app/how-it-works"
+			},
+			{
+				"title": "Diversified Portfolio Building",
+				"desc": "Spread investments across multiple properties and locations to build a diversified real estate portfolio without the traditional management burden.",
+				"link": "https://www.equito.app/"
+			}
+		],
+		"stats": [
+			{
+				"label": "Registered Investors",
+				"value": "225K+"
+			},
+			{
+				"label": "Minimum Investment",
+				"value": "€100"
+			},
+			{
+				"label": "Investment Target",
+				"value": "€30M+"
+			},
+			{
+				"label": "Properties Planned",
+				"value": "122+"
+			}
+		],
+		"pressFeatures": [
+			"La Vanguardia",
+			"EjePrime",
+			"Dir&Ge",
+			"Crónica Global",
+			"Observatorio Inmobiliario",
+			"El Punt Avui+"
+		]
+	}
+]

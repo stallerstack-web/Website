@@ -1,0 +1,114 @@
+[
+	{
+		"id": 1,
+		"name": "Alex Rivers",
+		"desig": "Chief Technology Officer",
+		"img": "/images/team/team-9.png",
+		"img2": "/images/team/team-9.png",
+		"imgLarge": "/images/team/team-9.png"
+	},
+	{
+		"id": 2,
+		"name": "Sarah Chen",
+		"desig": "Lead Full Stack Developer",
+		"img": "/images/team/team-10.png",
+		"img2": "/images/team/team-10.png",
+		"imgLarge": "/images/team/team-10.png"
+	},
+	{
+		"id": 3,
+		"name": "Marcus Thorne",
+		"desig": "Senior Cloud Architect",
+		"img": "/images/team/team-11.png",
+		"img2": "/images/team/team-11.png",
+		"imgLarge": "/images/team/team-11.png"
+	},
+	{
+		"id": 4,
+		"name": "Elena Rodriguez",
+		"desig": "AI/ML Engineer",
+		"img": "/images/team/team-12.png",
+		"img2": "/images/team/team-12.png",
+		"imgLarge": "/images/team/team-12.png"
+	},
+	{
+		"id": 5,
+		"name": "David Park",
+		"desig": "Cybersecurity Specialist",
+		"img": "https://images.unsplash.com/photo-1519085360753-af0119f7cbe7?q=80&w=400&h=400&auto=format&fit=crop",
+		"img2": "https://images.unsplash.com/photo-1519085360753-af0119f7cbe7?q=80&w=400&h=400&auto=format&fit=crop",
+		"imgLarge": "https://images.unsplash.com/photo-1519085360753-af0119f7cbe7?q=80&w=800&h=800&auto=format&fit=crop"
+	},
+	{
+		"id": 6,
+		"name": "Amina Jalloh",
+		"desig": "Senior UX Designer",
+		"img": "https://images.unsplash.com/photo-1567532939604-b6b5b0db2604?q=80&w=400&h=400&auto=format&fit=crop",
+		"img2": "https://images.unsplash.com/photo-1567532939604-b6b5b0db2604?q=80&w=400&h=400&auto=format&fit=crop",
+		"imgLarge": "https://images.unsplash.com/photo-1567532939604-b6b5b0db2604?q=80&w=800&h=800&auto=format&fit=crop"
+	},
+	{
+		"id": 7,
+		"name": "James Wilson",
+		"desig": "DevOps Engineer",
+		"img": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?q=80&w=400&h=400&auto=format&fit=crop",
+		"img2": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?q=80&w=400&h=400&auto=format&fit=crop",
+		"imgLarge": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?q=80&w=800&h=800&auto=format&fit=crop"
+	},
+	{
+		"id": 8,
+		"name": "Maya Patel",
+		"desig": "Product Manager",
+		"img": "https://images.unsplash.com/photo-1598550874175-4d0fe4a2c906?q=80&w=400&h=400&auto=format&fit=crop",
+		"img2": "https://images.unsplash.com/photo-1598550874175-4d0fe4a2c906?q=80&w=400&h=400&auto=format&fit=crop",
+		"imgLarge": "https://images.unsplash.com/photo-1598550874175-4d0fe4a2c906?q=80&w=800&h=800&auto=format&fit=crop"
+	},
+	{
+		"id": 9,
+		"name": "Kiran Shah",
+		"desig": "Frontend Architect",
+		"img": "https://images.unsplash.com/photo-1506277886164-e25aa3f4ef7f?q=80&w=400&h=400&auto=format&fit=crop",
+		"img2": "https://images.unsplash.com/photo-1506277886164-e25aa3f4ef7f?q=80&w=400&h=400&auto=format&fit=crop",
+		"imgLarge": "https://images.unsplash.com/photo-1506277886164-e25aa3f4ef7f?q=80&w=800&h=800&auto=format&fit=crop"
+	},
+	{
+		"id": 10,
+		"name": "Rachel Adams",
+		"desig": "QA Automation Lead",
+		"img": "https://images.unsplash.com/photo-1544005313-94ddf0286df2?q=80&w=400&h=400&auto=format&fit=crop",
+		"img2": "https://images.unsplash.com/photo-1544005313-94ddf0286df2?q=80&w=400&h=400&auto=format&fit=crop",
+		"imgLarge": "https://images.unsplash.com/photo-1544005313-94ddf0286df2?q=80&w=800&h=800&auto=format&fit=crop"
+	},
+	{
+		"id": 11,
+		"name": "Liam Carter",
+		"desig": "Network Engineer",
+		"img": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?q=80&w=400&h=400&auto=format&fit=crop",
+		"img2": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?q=80&w=400&h=400&auto=format&fit=crop",
+		"imgLarge": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?q=80&w=800&h=800&auto=format&fit=crop"
+	},
+	{
+		"id": 12,
+		"name": "Sophie Turner",
+		"desig": "Data Scientist",
+		"img": "https://images.unsplash.com/photo-1494790108377-be9c29b29330?q=80&w=400&h=400&auto=format&fit=crop",
+		"img2": "https://images.unsplash.com/photo-1494790108377-be9c29b29330?q=80&w=400&h=400&auto=format&fit=crop",
+		"imgLarge": "https://images.unsplash.com/photo-1494790108377-be9c29b29330?q=80&w=800&h=800&auto=format&fit=crop"
+	},
+	{
+		"id": 13,
+		"name": "Noah Miller",
+		"desig": "Backend Engineer",
+		"img": "https://images.unsplash.com/photo-1552058544-f2b08422138a?q=80&w=400&h=400&auto=format&fit=crop",
+		"img2": "https://images.unsplash.com/photo-1552058544-f2b08422138a?q=80&w=400&h=400&auto=format&fit=crop",
+		"imgLarge": "https://images.unsplash.com/photo-1552058544-f2b08422138a?q=80&w=800&h=800&auto=format&fit=crop"
+	},
+	{
+		"id": 14,
+		"name": "Isabella Garcia",
+		"desig": "Mobile Developer",
+		"img": "https://images.unsplash.com/photo-1531123897727-8f129e1688ce?q=80&w=400&h=400&auto=format&fit=crop",
+		"img2": "https://images.unsplash.com/photo-1531123897727-8f129e1688ce?q=80&w=400&h=400&auto=format&fit=crop",
+		"imgLarge": "https://images.unsplash.com/photo-1531123897727-8f129e1688ce?q=80&w=800&h=800&auto=format&fit=crop"
+	}
+]
