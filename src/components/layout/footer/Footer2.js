@@ -191,7 +191,7 @@ const Footer2 = () => {
 								<div className="copyright-menu">
 									<ul>
 										<li>
-											<Link href="/contact">Privacy Policy</Link>
+											<Link href="/privacy-policy">Privacy Policy</Link>
 										</li>
 										<li>
 											<Link href="/terms-and-conditions">

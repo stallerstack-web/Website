@@ -10,39 +10,25 @@ const TermsAndConditionsPrimary = () => {
 							<div>
 								<h2>
 									Terms &amp; Conditions{" "}
-									<span className="pill">
-										Staller Stack – Corporate Business HTML Template
-									</span>
+									<span className="pill">Staller Stack</span>
 								</h2>
-								<p className="muted">Last updated: September 9, 2025</p>
+								<p className="muted">Last updated: April 9, 2026</p>
 								<p>
-									Thank you for choosing{" "}
-									<strong>Staller Stack – Corporate Business HTML Template</strong> .
-									These Terms &amp; Conditions govern your use of the Template
-									purchased from{" "}
-									<Link
-										href="https://themeforest.net/"
-										target="_blank"
-										rel="noopener"
-									>
-										ThemeForest (Envato Market)
-									</Link>
-									. By downloading, installing, or using the Template, you agree
-									to be bound by these Terms and the applicable{" "}
-									<Link
-										href="https://themeforest.net/licenses/standard"
-										target="_blank"
-										rel="noopener"
-									>
-										Envato License
-									</Link>
-									.
+									Welcome to <strong>Staller Stack</strong>. By accessing or
+									using our website at{" "}
+									<Link href="https://stackstaller.us" target="_blank" rel="noopener">
+										stackstaller.us
+									</Link>{" "}
+									and the technology solutions, services, and consulting we
+									provide, you agree to be bound by these Terms &amp; Conditions.
+									Please read them carefully before engaging with our services.
 								</p>
 								<div className="note">
-									<strong>Short version:</strong> You can use Staller Stack on the
-									number of end products allowed by your Envato license, but you
-									can’t resell, redistribute, or share the source files. Support
-									and updates are provided according to the policies below.
+									<strong>Short version:</strong> Staller Stack provides
+									end-to-end tech solutions to clients. By using our services or
+									website, you agree to use them responsibly, respect intellectual
+									property, and understand that we are not liable for
+									circumstances beyond our control.
 								</div>
 							</div>
 
@@ -50,34 +36,53 @@ const TermsAndConditionsPrimary = () => {
 								<h2>Table of Contents</h2>
 								<ol>
 									<li>
-										<button
-											className="tj-scroll-btn"
-											data-target="#definitions"
-										>
+										<button className="tj-scroll-btn" data-target="#definitions">
 											Definitions
 										</button>
 									</li>
 									<li>
-										<button className="tj-scroll-btn" data-target="#license">
-											License &amp; Permitted Use
+										<button className="tj-scroll-btn" data-target="#services">
+											Our Services
 										</button>
 									</li>
 									<li>
-										<button
-											className="tj-scroll-btn"
-											data-target="#restrictions"
-										>
-											Restrictions
+										<button className="tj-scroll-btn" data-target="#use-of-site">
+											Use of Our Website
 										</button>
 									</li>
 									<li>
-										<button className="tj-scroll-btn" data-target="#support">
-											Support Policy
+										<button className="tj-scroll-btn" data-target="#ip">
+											Intellectual Property
 										</button>
 									</li>
 									<li>
-										<button className="tj-scroll-btn" data-target="#updates">
-											Updates &amp; Compatibility
+										<button className="tj-scroll-btn" data-target="#confidentiality">
+											Confidentiality
+										</button>
+									</li>
+									<li>
+										<button className="tj-scroll-btn" data-target="#payment">
+											Payment &amp; Refund Policy
+										</button>
+									</li>
+									<li>
+										<button className="tj-scroll-btn" data-target="#liability">
+											Limitation of Liability
+										</button>
+									</li>
+									<li>
+										<button className="tj-scroll-btn" data-target="#privacy">
+											Privacy
+										</button>
+									</li>
+									<li>
+										<button className="tj-scroll-btn" data-target="#changes">
+											Changes to These Terms
+										</button>
+									</li>
+									<li>
+										<button className="tj-scroll-btn" data-target="#contact">
+											Contact Us
 										</button>
 									</li>
 								</ol>
@@ -86,167 +91,272 @@ const TermsAndConditionsPrimary = () => {
 							<div id="definitions">
 								<h3>1. Definitions</h3>
 								<p>
-									<strong>“We”, “Us”, “Our”</strong> refers to{" "}
-									<em>
-										<Link href="https://themeforest.net/user/theme-junction">
-											Theme Junction
-										</Link>
-									</em>
-									, the author of the Template on ThemeForest.
-								</p>
-								<p>
-									<strong>“You”, “Your”</strong> refers to the
-									purchaser/licensee who downloads or uses the Template.
-								</p>
-								<p>
-									<strong>“License”</strong> refers to the Envato Market license
-									(Regular or Extended) under which the Template is purchased.
-									For full details, see the{" "}
-									<Link
-										href="https://themeforest.net/licenses/standard"
-										target="_blank"
-										rel="noopener"
-									>
-										Envato License Terms
+									<strong>"Staller Stack", "We", "Us", "Our"</strong> refers to
+									Staller Stack, a technology solutions company operating at{" "}
+									<Link href="https://stackstaller.us" target="_blank" rel="noopener">
+										stackstaller.us
 									</Link>
 									.
 								</p>
-							</div>
-
-							<div id="license">
-								<h3>2. License &amp; Permitted Use</h3>
 								<p>
-									Your rights to use the Template are determined by the Envato
-									license you purchased:
+									<strong>"Client", "You", "Your"</strong> refers to any
+									individual, business, or entity that accesses our website,
+									inquires about, or engages our services.
 								</p>
-								<ul>
-									<li>
-										<strong>Regular License:</strong> Permits the use of the
-										Template in a single <em>end product</em> that is not
-										offered for sale, where end users are not charged to access
-										or use it.
-									</li>
-									<li>
-										<strong>Extended License:</strong> Permits the use of the
-										Template in a single <em>end product offered for sale</em>{" "}
-										(e.g., a SaaS or paid access site). The Template itself
-										cannot be resold as a template or theme.
-									</li>
-								</ul>
 								<p>
-									Each license is valid for <strong>one end product</strong>. If
-									you need the Template for multiple projects, you must purchase
-									one license for each end product. All uses must comply with
-									Envato’s licensing rules.
+									<strong>"Services"</strong> refers to all technology solutions,
+									software development, IT consulting, digital transformation,
+									support, and any other service provided by Staller Stack.
 								</p>
-							</div>
-
-							<div id="restrictions">
-								<h3>3. Restrictions</h3>
 								<p>
-									You agree that you will <strong>not</strong>:
-								</p>
-								<ul>
-									<li>
-										Resell, redistribute, sublicense, share, or make the
-										Template (or any source files) publicly available, except as
-										permitted by your Envato license.
-									</li>
-									<li>
-										Use the Template in any way that competes with the original
-										item (e.g., as a theme/template for sale, or in a template
-										library/marketplace).
-									</li>
-									<li>
-										Remove, obscure, or alter copyright notices, license
-										headers, or item metadata where present.
-									</li>
-									<li>Claim the Template as your own original work.</li>
-									<li>
-										Use the Template for unlawful, harmful, or offensive
-										content, or in violation of any applicable law or
-										regulation.
-									</li>
-								</ul>
-							</div>
-
-							<div id="support">
-								<h3>4. Support Policy</h3>
-								<p>
-									Item support is provided in accordance with Envato’s{" "}
-									<Link
-										href="https://themeforest.net/page/item_support_policy"
-										target="_blank"
-										rel="noopener"
-									>
-										Item Support Policy
+									<strong>"Website"</strong> refers to our online presence at{" "}
+									<Link href="https://stackstaller.us" target="_blank" rel="noopener">
+										stackstaller.us
 									</Link>{" "}
-									for the support period associated with your purchase.
-								</p>
-								<p>
-									<strong>What’s included:</strong>
-								</p>
-								<ul>
-									<li>
-										Answering questions about item features and functionality.
-									</li>
-									<li>
-										Bug fixes and reported issue investigation (if the issue is
-										reproducible with the original item).
-									</li>
-									<li>
-										Updates to maintain item compatibility with supported
-										browsers and dependencies listed in the documentation.
-									</li>
-								</ul>
-								<p>
-									<strong>What’s not included:</strong>
-								</p>
-								<ul>
-									<li>Installation, customization, or new feature requests.</li>
-									<li>
-										Support for third‑party plugins, scripts, or hosting/server
-										issues.
-									</li>
-									<li>
-										Issues arising from modifications beyond the provided code
-										or from outdated dependencies not specified in the docs.
-									</li>
-								</ul>
-								<p>
-									<strong>How to get support:</strong> Please open a ticket or
-									contact us via ThemeForest comments with your{" "}
-									<em>Envato username</em> and <em>purchase code</em>. We may
-									ask for temporary access or additional details to diagnose
-									issues.
+									and all its sub-pages.
 								</p>
 							</div>
 
-							<div id="updates">
-								<h3>5. Updates &amp; Compatibility</h3>
+							<div id="services">
+								<h3>2. Our Services</h3>
 								<p>
-									We may release updates to improve features, fix bugs, or
-									maintain compatibility. You’ll have access to updates via your
-									ThemeForest downloads during the support/maintenance period.
+									Staller Stack provides a comprehensive range of technology
+									solutions to businesses and individuals, including but not
+									limited to:
 								</p>
 								<ul>
 									<li>
-										The Template is built as a static HTML/CSS/JS item. It does
-										not include server‑side code.
+										<strong>Custom Software Development:</strong> Design and
+										development of bespoke web, mobile, and enterprise
+										applications.
 									</li>
 									<li>
-										Browser support targets versions listed in the
-										documentation. Older/legacy browsers may require polyfills
-										or are not supported.
+										<strong>IT Consulting &amp; Strategy:</strong> Technology
+										roadmapping, digital transformation advisory, and systems
+										architecture.
+									</li>
+									<li>
+										<strong>Cloud Solutions:</strong> Cloud migration,
+										infrastructure management, and DevOps services.
+									</li>
+									<li>
+										<strong>UI/UX Design:</strong> User research, prototyping,
+										and design systems for modern digital products.
+									</li>
+									<li>
+										<strong>IT Support &amp; Maintenance:</strong> Ongoing
+										technical support, monitoring, and system maintenance.
+									</li>
+									<li>
+										<strong>Cybersecurity:</strong> Security audits, penetration
+										testing, and compliance advisory.
+									</li>
+									<li>
+										<strong>Data &amp; Analytics:</strong> Business intelligence,
+										reporting dashboards, and data pipeline development.
+									</li>
+								</ul>
+								<p>
+									Specific deliverables, timelines, and costs are defined in a
+									separate <strong>Service Agreement or Statement of Work (SOW)</strong>{" "}
+									signed prior to project commencement.
+								</p>
+							</div>
+
+							<div id="use-of-site">
+								<h3>3. Use of Our Website</h3>
+								<p>
+									By accessing our website, you agree to use it only for lawful
+									purposes. You agree that you will <strong>not</strong>:
+								</p>
+								<ul>
+									<li>
+										Use the website in any way that violates applicable local,
+										national, or international law or regulation.
+									</li>
+									<li>
+										Attempt to gain unauthorized access to any part of the
+										website or its related systems.
+									</li>
+									<li>
+										Transmit any unsolicited or unauthorized advertising or
+										promotional material (spam).
+									</li>
+									<li>
+										Scrape, crawl, or copy content from our website without
+										express written permission.
+									</li>
+									<li>
+										Introduce any viruses, trojans, worms, or any other
+										material that is malicious or technologically harmful.
 									</li>
 								</ul>
 							</div>
+
+							<div id="ip">
+								<h3>4. Intellectual Property</h3>
+								<p>
+									All content on this website — including but not limited to
+									text, graphics, logos, icons, images, and source code — is the
+									property of Staller Stack or its content suppliers and is
+									protected by applicable intellectual property laws.
+								</p>
+								<ul>
+									<li>
+										You may not reproduce, distribute, or create derivative
+										works from any content on this website without our express
+										prior written consent.
+									</li>
+									<li>
+										Deliverables produced for a client as part of a Service
+										Agreement will have ownership terms explicitly defined in
+										that agreement.
+									</li>
+									<li>
+										Any open-source components used in our solutions are
+										governed by their respective licenses.
+									</li>
+								</ul>
+							</div>
+
+							<div id="confidentiality">
+								<h3>5. Confidentiality</h3>
+								<p>
+									Both parties acknowledge that, in the course of providing
+									services, confidential information may be shared. Staller Stack
+									agrees to:
+								</p>
+								<ul>
+									<li>
+										Keep all client data, business logic, and project details
+										strictly confidential.
+									</li>
+									<li>
+										Not disclose any confidential information to third parties
+										without your prior written consent, except as required by law.
+									</li>
+									<li>
+										Use client information solely for the purpose of delivering
+										the agreed services.
+									</li>
+								</ul>
+								<p>
+									A formal Non-Disclosure Agreement (NDA) can be signed upon
+									request before any detailed project discussions begin.
+								</p>
+							</div>
+
+							<div id="payment">
+								<h3>6. Payment &amp; Refund Policy</h3>
+								<p>
+									Payment terms are outlined in the project proposal or invoice
+									provided by Staller Stack. General terms include:
+								</p>
+								<ul>
+									<li>
+										Project work typically requires a deposit before work
+										commences, with the remainder due upon milestone completion
+										or project delivery.
+									</li>
+									<li>
+										All invoices are payable within the timeframe specified in
+										the invoice.
+									</li>
+									<li>
+										Staller Stack reserves the right to pause or terminate work
+										if payment obligations are not met.
+									</li>
+									<li>
+										Refunds, where applicable, are subject to the terms of the
+										specific engagement agreement. General consulting fees and
+										completed milestones are non-refundable.
+									</li>
+								</ul>
+							</div>
+
+							<div id="liability">
+								<h3>7. Limitation of Liability</h3>
+								<p>
+									To the fullest extent permitted by law, Staller Stack shall
+									not be liable for any indirect, incidental, special,
+									consequential, or punitive damages arising out of or related to
+									your use of our services or website, including but not limited
+									to:
+								</p>
+								<ul>
+									<li>Loss of profits, data, or business opportunities.</li>
+									<li>
+										Service interruptions caused by third-party platforms,
+										infrastructure, or force majeure events.
+									</li>
+									<li>
+										Errors or inaccuracies in information provided on the
+										website.
+									</li>
+								</ul>
+								<p>
+									Our total liability to you in connection with any services
+									shall not exceed the total fees paid by you for the specific
+									service giving rise to the claim.
+								</p>
+							</div>
+
+							<div id="privacy">
+								<h3>8. Privacy</h3>
+								<p>
+									Your privacy is important to us. Our collection and use of
+									personal information is governed by our{" "}
+									<Link href="/privacy-policy">Privacy Policy</Link>, which is
+									incorporated into these Terms by reference. By using our
+									website or services, you consent to the practices described
+									in our Privacy Policy.
+								</p>
+							</div>
+
+							<div id="changes">
+								<h3>9. Changes to These Terms</h3>
+								<p>
+									Staller Stack reserves the right to update or modify these
+									Terms &amp; Conditions at any time. We will indicate the date
+									of the last revision at the top of this page. Your continued
+									use of our website or services after any changes constitutes
+									your acceptance of the new Terms.
+								</p>
+							</div>
+
+							<div id="contact">
+								<h3>10. Contact Us</h3>
+								<p>
+									If you have any questions about these Terms &amp; Conditions,
+									please reach out to us:
+								</p>
+								<ul>
+									<li>
+										<strong>Website:</strong>{" "}
+										<Link href="https://stackstaller.us" target="_blank" rel="noopener">
+											stackstaller.us
+										</Link>
+									</li>
+									<li>
+										<strong>Contact Page:</strong>{" "}
+										<Link href="/contact">Get in Touch</Link>
+									</li>
+									<li>
+										<strong>Email:</strong>{" "}
+										<Link href="mailto:hello@stackstaller.us">
+											hello@stackstaller.us
+										</Link>
+									</li>
+								</ul>
+							</div>
+
 							<p className="muted">
 								<small>
-									This Terms &amp; Conditions page is provided for general
-									guidance only and does not constitute legal advice. Please
-									consult your legal advisor to adapt it to your specific needs
-									and local laws.
+									These Terms &amp; Conditions are provided for general guidance
+									and represent the policies of Staller Stack. They do not
+									constitute legal advice. We recommend consulting a qualified
+									legal professional to ensure full compliance with laws
+									applicable to your jurisdiction.
 								</small>
 							</p>
 						</div>

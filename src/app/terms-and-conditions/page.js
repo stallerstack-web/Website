@@ -19,6 +19,7 @@ export default function TermsAndConditions() {
 						<HeroInner
 							title={"Terms and Conditions"}
 							text={"Terms and Conditions"}
+							bgImage={"https://images.unsplash.com/photo-1497366216548-37526070297c?q=80&w=1890&h=420&auto=format&fit=crop"}
 						/>
 						<TermsAndConditionsPrimary />
 						<Cta />
