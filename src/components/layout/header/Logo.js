@@ -14,7 +14,7 @@ const Logo = ({ headerType, isStickyHeader }) => {
 							headerType === 9) &&
 							!isStickyHeader
 							? "/images/logos/logo-l.svg"
-							: "/images/logos/logo-d.svg"
+							: "/images/logos/staller-stack-logo.svg"
 					}
 					alt=""
 					width={544}

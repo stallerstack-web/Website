@@ -9,35 +9,35 @@ const Hero2 = () => {
 	const [controlledMainSwiper, setControlledMainSwiper] = useState(null);
 	const heroSlides = [
 		{
-			subtitle: "number #1 solver agency",
+			subtitle: "innovative tech agency",
 			title: (
 				<>
-					Leading Future for <span>Business.</span>
+					We build <span>Apps.</span>
 				</>
 			),
-			desc: "Committed to delivering innovative solutions that drive success. With a focus on quality.",
+			desc: "Crafting seamless, intuitive, and powerful mobile and web applications tailored to your business needs.",
 			img: "/images/hero/slider-1.webp",
 			thumbImg: "/images/hero/slider-thumb-1.webp",
 		},
 		{
-			subtitle: "number #1 solver agency",
+			subtitle: "innovative tech agency",
 			title: (
 				<>
-					Leading Future for <span>Business.</span>
+					We build <span>Solutions.</span>
 				</>
 			),
-			desc: "Committed to delivering innovative solutions that drive success. With a focus on quality.",
+			desc: "Delivering end-to-end technological solutions to solve complex challenges and drive growth.",
 			img: "/images/hero/slider-2.webp",
 			thumbImg: "/images/hero/slider-thumb-2.webp",
 		},
 		{
-			subtitle: "number #1 solver agency",
+			subtitle: "innovative tech agency",
 			title: (
 				<>
-					Leading Future for <span>Business.</span>
+					We build <span>AI Solutions.</span>
 				</>
 			),
-			desc: "Committed to delivering innovative solutions that drive success. With a focus on quality.",
+			desc: "Empowering your business with cutting-edge artificial intelligence and machine learning innovations.",
 			img: "/images/hero/slider-3.webp",
 			thumbImg: "/images/hero/slider-thumb-3.webp",
 		},
@@ -66,9 +66,8 @@ const Hero2 = () => {
 						<div
 							className="slider-bg-image"
 							style={{
-								backgroundImage: `url('${
-									img ? img : "/images/hero/slider-1.webp"
-								}')`,
+								backgroundImage: `url('${img ? img : "/images/hero/slider-1.webp"
+									}')`,
 							}}
 						></div>
 						<div className="container">

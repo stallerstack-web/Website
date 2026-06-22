@@ -32,8 +32,11 @@ const headingFont = Mona_Sans({
 });
 
 export const metadata = {
-	title: "Staller Stack - Corporate Business React NextJs Template",
-	description: "Staller Stack - Corporate Business React NextJs Template",
+	title: "Staller Stack -Leading Future for Business",
+	description: "Staller Stack -Leading Future for Business",
+	icons: {
+		icon: "/images/logos/favion.svg",
+	},
 };
 
 export default function RootLayout({ children }) {
